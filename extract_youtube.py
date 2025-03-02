@@ -13,7 +13,6 @@ load_dotenv()
 client = genai.Client()
 model = "gemini-2.0-flash"
 
-
 try:
     print('uploading')
     video_file = client.files.upload(file='files/sustainability_commission.mp3')

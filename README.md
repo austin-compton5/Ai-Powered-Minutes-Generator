@@ -1,8 +1,6 @@
 
 # Multimodal Structured Extraction with Gemini 2.0 Flash and Google GenAI Python SDK 1.0
 
-In this tutorial we extract structured data from a variety of sources, including an investment newsletter PDF, a podcast, and a YouTube video.
-
 ## Setup
 ```
 python3 -m venv venv
