@@ -13,21 +13,6 @@ load_dotenv()
 client = genai.Client()
 model = "gemini-2.0-flash"
 
-try:
-    print('uploading')
-    video_file = client.files.upload(file='files/sustainability_commission.mp3')
-    print("File uploaded successfully")
-except Exception as e:
-    print(f"Error during file upload: {e}")
-    
-while video_file.state.name == "PROCESSING":
-    print("processing video...")
-    time.sleep(5)
-    print("video file name:")
-    print(video_file.name)
-    video_file = client.files.get(name=video_file.name)
-
-# set up pydantic models for companies and themes
 class Comment(BaseModel):
     Commissioner_speaking: str
     comment: str
@@ -43,24 +28,64 @@ extract_notes_from_video = """
 "Please summarize the key points from this formal commission meeting. Include decisions made, important discussions, action items, and any relevant details about the participants and topics discussed. Focus on clarity, conciseness, and maintaining the formal tone of the meeting."
 """
 
-# count the tokens in the prompt and file
-print(client.models.count_tokens(model=model, contents=[video_file, extract_notes_from_video ]))
+def rollcall(f):
+    video_file = client.files.upload(file=f)
+    print("processing video...")
+    while video_file.state.name == "PROCESSING":
+        time.sleep(5)
+        print("video file name:")
+        print(video_file.name)
+        video_file = client.files.get(name=video_file.name)
 
-rollcall = client.models.generate_content(
-    model=model, 
-    contents = [video_file, extract_rollcall_from_video],
-    config = types.GenerateContentConfig(
+    print(client.models.count_tokens(model=model, contents=[video_file, extract_rollcall_from_video ]))
+    rollcall = client.models.generate_content(
+        model=model, 
+        contents = [video_file, extract_rollcall_from_video],
+        config = types.GenerateContentConfig(
         response_mime_type="application/json", response_schema= RollCall
-    )
-)
-# send the prompt and file to gemini
-result = client.models.generate_content(
-            model=model,
-            contents=[video_file, extract_notes_from_video ], 
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json", response_schema=list[Comment]
-            )
         )
+    )
 
-print(json.loads(rollcall.text))
-print(json.loads(result.text))
+    return json.loads(rollcall.text)
+
+
+def uploadSplit(directory):
+
+    combined_notes = []
+
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
+
+        if os.path.isfile(f):
+            try:
+                print('uploading')
+                video_file = client.files.upload(file=f)
+                print("File uploaded successfully")
+            except Exception as e:
+                print(f"Error during file upload: {e}")
+
+            while video_file.state.name == "PROCESSING":
+                print("processing video...")
+                time.sleep(5)
+                print("video file name:")
+                print(video_file.name)
+                video_file = client.files.get(name=video_file.name)
+
+            print(client.models.count_tokens(model=model, contents=[video_file, extract_notes_from_video]))
+
+            notes = client.models.generate_content(
+                model=model, 
+                contents = [video_file, extract_notes_from_video],
+                config = types.GenerateContentConfig(
+                response_mime_type="application/json", response_schema= RollCall
+                    )   
+                )
+            
+            obj = json.loads(notes.text)
+            combined_notes.append(obj)
+
+    return combined_notes
+    
+
+
+print(uploadSplit('files/sustainability_commission_split'))
