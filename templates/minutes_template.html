@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Meeting Minutes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+        }
+        h1, h2 {
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        .section {
+            margin-top: 30px;
+        }
+        .comment {
+            margin-left: 20px;
+        }
+        .timestamp {
+            font-style: italic;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+
+<h1>City of Glendale Sustainability Commission</h1>
+<h2>Minutes of Special Meeting – {{ meeting.meeting_date.strftime('%B %d, %Y') }}</h2>
+
+<p><strong>Start Time:</strong> {{ meeting.start_time }}<br>
+<strong>End Time:</strong> {{ meeting.end_time }}</p>
+
+<div class="section">
+    <h2>1. Roll Call</h2>
+    <p><strong>Present:</strong> {{ meeting.roll_call.present | join(', ') }}</p>
+    <p><strong>Absent:</strong> {{ meeting.roll_call.absent | join(', ') }}</p>
+</div>
+
+{% if meeting.pledge_of_allegiance %}
+<div class="section">
+    <h2>1a. Pledge of Allegiance</h2>
+    <p>Pledge of Allegiance was recited.</p>
+</div>
+{% endif %}
+
+{% if meeting.land_acknowledgement %}
+<div class="section">
+    <h2>1b. Land Acknowledgement</h2>
+    <p>Land Acknowledgement was given.</p>
+</div>
+{% endif %}
+
+{% if meeting.agenda_posted_date %}
+<div class="section">
+    <h2>1c. Agenda Posting</h2>
+    <p>The agenda for the meeting was posted on {{ meeting.agenda_posted_date.strftime('%B %d, %Y') }}.</p>
+</div>
+{% endif %}
+
+{% if meeting.approval_of_minutes %}
+<div class="section">
+    <h2>2. Approval of Minutes</h2>
+    <p>Approval of the minutes of the meeting held on {{ meeting.approval_of_minutes.referenced_meeting_date.strftime('%B %d, %Y') }}.</p>
+    <p>Moved by {{ meeting.approval_of_minutes.moved_by }}, seconded by {{ meeting.approval_of_minutes.seconded_by }}.</p>
+    <p><strong>Ayes:</strong> {{ meeting.approval_of_minutes.ayes | join(', ') }}</p>
+</div>
+{% endif %}
+
+{% if meeting.general_commissioner_comments %}
+<div class="section">
+    <h2>3. Commissioner Comments</h2>
+    <ul>
+        {% for comment in meeting.general_commissioner_comments %}
+        <li class="comment">
+            {% if comment.timestamp %}
+            <span class="timestamp">[{{ comment.timestamp }}]</span>
+            {% endif %}
+            <strong>{{ comment.speaker }}:</strong> {{ comment.comment }}
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+{% for item in meeting.agenda_items %}
+<div class="section">
+    <h2>{{ item.item_number }}. {{ item.title }} ({{ item.type }})</h2>
+    {% if item.presenter %}
+        <p><em>Presented by {{ item.presenter }}</em></p>
+    {% endif %}
+    {% if item.summary %}
+        <p><strong>Summary:</strong> {{ item.summary }}</p>
+    {% endif %}
+    {% if item.commissioner_comments %}
+        <p><strong>Comments:</strong></p>
+        <ul>
+            {% for comment in item.commissioner_comments %}
+            <li class="comment">
+                {% if comment.timestamp %}
+                <span class="timestamp">[{{ comment.timestamp }}]</span>
+                {% endif %}
+                <strong>{{ comment.speaker }}:</strong> {{ comment.comment }}
+            </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</div>
+{% endfor %}
+
+{% if meeting.oral_communications %}
+<div class="section">
+    <h2>4. Oral Communications</h2>
+    {% if meeting.oral_communications|length == 0 %}
+        <p>No speakers or callers.</p>
+    {% else %}
+        <ul>
+            {% for comment in meeting.oral_communications %}
+            <li class="comment">
+                {% if comment.timestamp %}
+                <span class="timestamp">[{{ comment.timestamp }}]</span>
+                {% endif %}
+                <strong>{{ comment.speaker }}:</strong> {{ comment.comment }}
+            </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</div>
+{% endif %}
+
+<div class="section">
+    <h2>8. Adjournment</h2>
+    <p>Motion to adjourn by {{ meeting.adjournment_moved_by }}, seconded by {{ meeting.adjournment_seconded_by }}</p>
+</div>
+
+</body>
+</html>
