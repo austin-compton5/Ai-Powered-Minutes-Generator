@@ -28,7 +28,7 @@ AI Tools – Used to generate initial HTML templates and troubleshoot formatting
 
 ## Setup 
 
-
+```
 1. Clone the repository:
 
   git clone https://github.com/yourusername/your-repo-name.git
@@ -53,6 +53,7 @@ AI Tools – Used to generate initial HTML templates and troubleshoot formatting
 
   The completed meeting_minutes.html file will be generated at the root of your project directory.
 
+```
 ## Key Contributions 
 
 Adapted an existing finance bot’s architecture to handle commission meeting data workflows
