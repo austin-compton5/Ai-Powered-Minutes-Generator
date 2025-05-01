@@ -28,32 +28,31 @@ AI Tools – Used to generate initial HTML templates and troubleshoot formatting
 
 ## Setup 
 
-```
 1. Clone the repository:
-
+```
   git clone https://github.com/yourusername/your-repo-name.git
   cd your-repo-name
-
+```
 2: Set up your python environment:
-
+```
   python3 -m venv venv
   source venv/bin/activate
   pip install -r requirements.txt
-
+```
 3. Create a .env file in the root directory with your Gemini API key
-
+```
   GOOGLE_API_KEY=your_google_api_key
-
+```
 
 5. Run the automation script
-
-  Run the create_minutes.sh file with ./create_minutes.sh, and provide a link to the commission meeting recording when prompted. The completed minutes will be     created in meeting_minutes.html at the root of your directory.
+```
+ ./create_minutes.sh
+```
 
 7. When prompted, enter the youtube link to the commission meeting.
 
   The completed meeting_minutes.html file will be generated at the root of your project directory.
 
-```
 ## Key Contributions 
 
 Adapted an existing finance bot’s architecture to handle commission meeting data workflows
