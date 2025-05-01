@@ -49,9 +49,7 @@ AI Tools – Used to generate initial HTML templates and troubleshoot formatting
  ./create_minutes.sh
 ```
 
-7. When prompted, enter the youtube link to the commission meeting.
-
-  The completed meeting_minutes.html file will be generated at the root of your project directory.
+7. When prompted, enter the youtube link to the commission meeting. The completed meeting_minutes.html file will be generated at the root of your project directory.
 
 ## Key Contributions 
 
