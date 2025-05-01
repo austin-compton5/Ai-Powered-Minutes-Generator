@@ -1,8 +1,6 @@
 
 # AI-Powered Meeting Minutes Generator for Local Government Internship 
 
-#Overview
-
 ```
 This tool automates the creation of structured meeting minutes for government commission meetings. It leverages the Google Gemini API to extract relevant content, uses Pydantic to validate and structure the data, and Jinja2 templates to convert the output into an HTML summary. The result is a fully automated, end-to-end pipeline that significantly reduces the manual effort required by staff to document commission meetings. 
 ```
@@ -58,7 +56,7 @@ Automated end-to-end process with Bash and Python
 
 Ensured output matches the format and quality standards of meeting minutes for my government internship.
 ```
-#Project Lineage & Acknowledgements
+## Project Lineage & Acknowledgements
 
 ```
 
