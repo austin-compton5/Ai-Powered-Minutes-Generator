@@ -6,7 +6,8 @@ This tool automates the creation of structured meeting minutes for government co
 ```
 ## Why I built this
 ```
-During my internship, recording minutes for commission meetings was a slow, time-intensive process. This tool automates the meeting-minutes workflow, saving me hours of repetitive work while ensuring consistent, structured outputs for each meeting. 
+During my internship, recording minutes for commission meetings was a slow, time-intensive process.
+This tool automates the meeting-minutes workflow, saving me hours of repetitive work while ensuring consistent, structured outputs for each meeting. 
 ```
 
 ## Tech Stack
