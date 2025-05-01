@@ -31,26 +31,27 @@ AI Tools – Used to generate initial HTML templates and troubleshoot formatting
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+  git clone https://github.com/yourusername/your-repo-name.git
+  cd your-repo-name
 
 2: Set up your python environment:
 
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+  python3 -m venv venv
+  source venv/bin/activate
+  pip install -r requirements.txt
 
 3. Create a .env file in the root directory with your Gemini API key
 
-GOOGLE_API_KEY=your_google_api_key
+  GOOGLE_API_KEY=your_google_api_key
 
 
-5. Run the automation script 
-Run the create_minutes.sh file with ./create_minutes.sh, and provide a link to the commission meeting recording when prompted. The completed minutes will be created in meeting_minutes.html at the root of your directory.
+5. Run the automation script
 
-6. When prompted, enter the youtube link to the commission meeting.
+  Run the create_minutes.sh file with ./create_minutes.sh, and provide a link to the commission meeting recording when prompted. The completed minutes will be     created in meeting_minutes.html at the root of your directory.
 
-The completed meeting_minutes.html file will be generated at the root of your project directory.
+7. When prompted, enter the youtube link to the commission meeting.
+
+  The completed meeting_minutes.html file will be generated at the root of your project directory.
 
 ## Key Contributions 
 
@@ -84,7 +85,6 @@ Throughout development, I also used AI tools (Gemini and ChatGPT) to:
 
 Original repo: https://github.com/hackingthemarkets/gemini-multimodal-structured-extraction
 
-Credit to the original developer(s) for their solid foundational architecture.
-
+Thank you to the original developer! I learned a lot building ontop of their project.
 
 ```
