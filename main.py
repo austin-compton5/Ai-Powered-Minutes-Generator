@@ -92,7 +92,7 @@ def json_serial(obj):
 
 
 generate_minutes= """
-Generate complete and structured meeting minutes using the provided schema, capturing each agenda item and commissioner comment in full with emphasis on meaning and key points, grouping them correctly and in order, covering the entire meeting from start to adjournment without omitting or prematurely stopping, and avoiding word-for-word transcription unless necessary for clarity.
+Generate complete and structured meeting minutes using the provided schema. For each agenda item, summarize commissioner comments by capturing their intent, meaning, and key points rather than quoting them verbatim. Ensure comments are grouped accurately by topic and speaker, presented in meeting order, and that the full scope of the meeting is covered from start to adjournment. Avoid word-for-word transcription unless a direct quote is essential for clarity or legal accuracy.
 """
 
 # count the tokens in the prompt and file
