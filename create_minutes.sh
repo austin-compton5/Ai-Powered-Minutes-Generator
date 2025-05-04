@@ -23,7 +23,7 @@ yt-dlp -x --audio-format mp3 -o "${output_dir}/${safe_title}.%(ext)s" "$video_ur
 if [ $? -eq 0 ]; then
   echo "Download complete!"
   echo "Creating AI generated minutes"
-  python3 main.py "$output_file"
+  python3 src/app.py "$output_file"
 else
   echo "Download failed."
 fi
