@@ -10,9 +10,13 @@ def setup_client(file_path):
         print('uploading: this may take a few minutes')
         video_file = client.files.upload(file=file_path)
         print("File uploaded successfully")
+
     except Exception as e:
+
         print(f"Error during file upload: {e}")
+
     while video_file.state.name == "PROCESSING":
+        
         print("processing video...")
         time.sleep(5)
         print("video file name:")

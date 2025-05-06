@@ -1,678 +1,508 @@
 {
-    "meeting_date": "2025-02-06T00:00:00-08:00",
-    "start_time": "6:00 PM",
-    "end_time": "7:32 PM",
+    "meeting_date": "2025-05-01T00:00:00-07:00",
+    "start_time": "18:00",
+    "end_time": "19:20",
     "roll_call": {
         "present": [
-            "Commissioner Bartusek",
+            "Commissioner Chakerian",
             "Commissioner Werner",
-            "Vice Chair Cartunian",
-            "Chairperson Basemore",
-            "Ex-Officio Khazaryan"
-        ],
-        "absent": [
             "Commissioner Pinkerton",
-            "Ex-Officio Sanchez"
-        ]
+            "Vice Chair Kartunian",
+            "Chairperson Basmajian",
+            "Ex-Officio Sanchez",
+            "Ex-Officio Ghazarian"
+        ],
+        "absent": []
     },
     "pledge_of_allegiance": true,
     "land_acknowledgement": true,
-    "agenda_posted_date": "2025-02-03T00:00:00-08:00",
+    "agenda_posted_date": "2025-04-25T00:00:00-07:00",
     "approval_of_minutes": {
-        "referenced_meeting_date": "2025-01-13T00:00:00-08:00",
+        "referenced_meeting_date": "2025-02-06T00:00:00-08:00",
         "moved_by": "Commissioner Werner",
-        "seconded_by": "Vice Chair Cartunian",
+        "seconded_by": "Commissioner Pinkerton",
         "ayes": [
-            "Commissioner Bartusek",
             "Commissioner Werner",
-            "Vice Chair Cartunian",
-            "Chairperson Basemore",
-            "Ex-Officio Khazaryan"
+            "Commissioner Pinkerton",
+            "Chairperson Basmajian"
         ]
     },
     "general_commissioner_comments": [
         {
             "speaker": "Commissioner Werner",
-            "comment": "Commissioner Werner requested an update on the City Council's consideration of the item regarding onsite dining disposables. ",
+            "comment": "Welcomed the new Commissioner, Shant Chakerian, and encouraged him to introduce himself and share his interests in sustainability.",
             "timestamp": null
         },
         {
-            "speaker": "Vice Chair Cartunian",
-            "comment": "Vice Chair Cartunian apologized for his absence at the last meeting, commended his colleagues for drafting the letter on drive-throughs, and stated that this commission wants to do it for environmental reasons. The Transportation Commission should be looking at it for transportation safety issues, and it impacts the quality of life of neighboring properties.",
+            "speaker": "Commissioner Chakerian",
+            "comment": "Expressed his pleasure to be part of the committee, mentioned his background as a former engineer, now an attorney in intellectual property, with experience in inventions and technologies related to alternative fuels and sustainability, and his excitement to help Glendale move forward in its goals towards greater sustainability. He also said he wants to get adoption of making the city a place with clean air, clean water, and a great place to live.",
             "timestamp": null
         },
         {
-            "speaker": "Commissioner Bartusek",
-            "comment": "Commissioner Bartusek thanked staff for the update, noting that he watched the meeting and spoke in support of the item, disclosing he was on the commission. He expressed disappointment at the outcome and thanked staff and the consultant for their work. He emphasized the importance of acknowledging the hard work of staff and the work that went into it.",
+            "speaker": "Commissioner Werner",
+            "comment": "Welcomed Commissioner Chakerian.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Chairperson Basmajian",
+            "comment": "Welcomed Commissioner Chakerian.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Vice Chair Kartunian",
+            "comment": "Asked about the process for submitting a comment letter, referencing a previous letter introduced by former Commissioner Alec regarding drive-throughs.",
+            "timestamp": null
+        },
+        {
+            "speaker": "City Staff (Julian)",
+            "comment": "Confirmed the letter regarding drive-throughs was submitted to the City Manager and provided to Council, and that if another commissioner wanted to submit a letter, it would need to be agendized.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Vice Chair Kartunian",
+            "comment": "Expressed interest in agendizing a letter about outreach that the commission could do to the community, suggesting a speaker series or field trips to major infrastructure dealing with sustainability and will bring a draft letter to the next meeting.",
+            "timestamp": null
+        },
+        {
+            "speaker": "City Staff (Julian)",
+            "comment": "Explained he'd have to find out whether permission from the City Council is needed for the commission to conduct outreach and would bring his recommendations to the next meeting.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Commissioner Werner",
+            "comment": "Seconded agendizing the letter.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Vice Chair Kartunian",
+            "comment": "Announced that the state of California officially announced that Styrofoam or expanded polystyrene food ware is banned statewide, and that she sees still stores selling that in Glendale, and they should not be.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Chairperson Basmajian",
+            "comment": "Clarified that the statewide Styrofoam ban is effective immediately.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Vice Chair Kartunian",
+            "comment": "Clarified EPS refers to expanded polystyrene or foam foodware, and it's foodware only, not other EPS products.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Student Commissioner",
+            "comment": "One of the proposed projects is going to be held in about two weeks, the prom teen clothing swap in the Glendale Central Library Teen Center and so they're very excited about that and they're promoting it through the social media apps and whatnot.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Student Commissioner",
+            "comment": "Share that they will get into the Earth Day Fair more in a later agenda part, but that was another part of the student commissioner projects which has now passed, so we'll get on it later.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Chairperson Basmajian",
+            "comment": "Asked the Student Commissioner to share more about the clothing swap.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Student Commissioner",
+            "comment": "It is going to be inspired by the usual clothing swaps held by the Sustainability Commission, but it's centered more on a teen audience because we want to reach out to people our age to learn more about sustainable practices and through a more accessible way, which is through a clothing swap, since it's prom season, people are looking to buy dresses and to not spend as much they could just hop in the library and look for some.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Vice Chair Kartunian",
+            "comment": "Questioned if the clothing swap would be a venue to promote against fast fashion, which is fashion manufactured to last little, probably months less than a year and then you toss it.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Student Commissioner",
+            "comment": "Part of the proposal that Samantha had was to have some education against fast fashion, too, and the reason that the student commissioners proposed the idea in the first place was to, you know, have a different channel that wasn't subscribing to fast fashion. She also shared there is a tailor, a photo booth and makeup artist to do some consultations, as well as goody bags.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Vice Chair Kartunian",
+            "comment": "Stated it was very impressive.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Chairperson Basmajian",
+            "comment": "Concluded the item with remarks about the state of things and headwinds on sustainability and environmental work at all levels, but certainly at the federal level, commended fellow commissioners and city staff for their continued work, said they are all in it together, and thanked everyone for their commitment to the commission.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Commissioner Werner",
+            "comment": "Wanted to wish former Sustainability Commissioner, Alec Bartersian good luck on the Transportation Commission that he's now on, said that he was one of the original commissioners along with Commissioner Pinkerton, Vice Chair Kartunian, and herself, and they hope that he does great things on his new commission.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Chairperson Basmajian",
+            "comment": "Said they hope that he comes and speaks as needed because I'm sure we would value his input from the audience.",
             "timestamp": null
         }
     ],
     "agenda_items": [
         {
+            "item_number": 4,
+            "title": "Oral Communication",
+            "type": "Oral Communication",
+            "presenter": null,
+            "summary": "Public comment period for items within the jurisdiction of the Sustainability Commission.",
+            "commissioner_comments": []
+        },
+        {
             "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations",
+            "title": "Action Items: Selection of Sustainability Commission Chairperson and Vice Chairperson for the 2025-2026 Term",
             "type": "Action",
-            "presenter": "David Nazarian",
-            "summary": "David Nazarian stated that the commission is to submit a letter to the City Council expressing support to revisit a prohibition on new drive-through establishments in the City of Glendale. The letter was presented at the January 13th special meeting, where commission members provided feedback on a draft presented by Commissioner Bartusek. The amended letter is presented for the commission to consider submitting to City Council.",
+            "presenter": "City Staff (Julian)",
+            "summary": "Nomination and selection of Chairperson and Vice Chairperson for the upcoming term.",
             "commissioner_comments": [
                 {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "Commissioner Bartusek provided background on the origin and intent of the letter, which was a result of City Council's inability to extend the temporary moratorium on drive-throughs, and the concerns regarding their impact outside of the downtown specific plan area. The letter outlines the implications of drive-throughs on transportation and sustainability initiatives. He detailed changes made to the letter based on requests, including adding specific asks for a moratorium and including exhibits.",
+                    "speaker": "City Staff (Julian)",
+                    "comment": "Stated that this is the annual selection of the chair and vice chair person, and informed he reached out to commissioner Kartunian and asked him if he was going to put himself forward for the chair person position, and he did not respond.",
                     "timestamp": null
                 },
                 {
                     "speaker": "Commissioner Werner",
-                    "comment": "Commissioner Werner thanked Commissioner Bartusek for incorporating the comments well. Adding the image, is worth a thousand words. It brings to mind how alleys have been taken over, and the city doesn't benefit, and the public doesn't benefit. Enforcement for these types of issues is something to address. Since some are being proposed for South Glendale, her neighborhood, and her neighbors are not happy.",
+                    "comment": "Nominated herself for chair, citing her long service on the commission and wanting to keep it consistence.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Vice Chair Cartunian",
-                    "comment": "The Vice Chair made several remarks.  His first point was that one size fits all doesn't work, with the limited car clearance example. His second point was regarding mentioning the City of Los Angeles in the letter as the reason being a limitation of authority, although noting to clarify that the property being discussed is in Glendale, but the impact is felt on Glendale residents crossing over into Los Angeles on the off-ramp from the 134.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "Commissioner Bartusek reminded members that the Foothill and Lowell in-and-out is just outside city limits, also generating traffic within Glendale.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Vice Chair Cartunian",
-                    "comment": "Traffic study is needed there. People cross over the yellow lines when not interested in a drive-through. Police officers have seen it. Imploring them to address safety issues.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basemore",
-                    "comment": "Chairperson Basemore also indicated having witnessed traffic congestion, stated appreciation for the detail incorporated in the letter, and expressed support for the letter as written.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "He pointed out that they did their due diligence and research to include what was possible, within reason. It's very difficult to address the impact that comes as a result of these establishments once they're approved. The most they could do, realistically, is hope police ticket drivers who are blocking traffic. There is already a pre-application for another in-and-out near Pacific and Verdugo, an area with residential streets nearby. He believed that all has been said.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Werner",
-                    "comment": "She asks about the potential to revoke the drive-through component of a restaurant if the traffic impact becomes a problem.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "David Nazarian",
-                    "comment": "David Nazarian stated that staff would need to look at the conditions of approval. A revocation would be due to a pattern of violation of those conditions, in a due process hearing. He would have to think about whether there would be a violation of policies of circulation, and as opposed to a express condition that's attached to permit issuance. So it's something staff would have to look into.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Vice Chair Cartunian",
-                    "comment": "Vice Chair Cartunian remarked that he found it hard to believe that the city has no enforcement mechanism. When doing infrastructure upgrades, permits and traffic plans are required to block a lane; in this case, the businesses are using a lane every day without pulling a permit. The city can and should sit down with the establishments and ask them to come up with a solution.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "The area in Grandview and Glenoaks, illustrates the degree to which Public Works is willing to work around a private use of public right of way. There is a specific establishment that is violating the approved circulation plan, however no action has been taken. Approving these establishments makes it very difficult to address the impacts that come as a result.",
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Had no nomination at this time.",
                     "timestamp": null
                 }
             ]
         },
         {
             "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
+            "title": "Action Items: Selection of Sustainability Commission Chairperson and Vice Chairperson for the 2025-2026 Term",
             "type": "Action",
-            "presenter": null,
-            "summary": null,
+            "presenter": "City Staff (Julian)",
+            "summary": "Nomination and selection of Chairperson and Vice Chairperson for the upcoming term.",
             "commissioner_comments": [
                 {
-                    "speaker": "Commissioner Werner",
-                    "comment": "Commissioner Werner, noted that it is the same problem: gas versus electric, as if encouraging gas, and needing to clarify. Should clarify current equipment. And do they have to turn that in?",
+                    "speaker": "Commissioner Chakerian",
+                    "comment": "Yes",
                     "timestamp": null
                 },
                 {
-                    "speaker": "David Nazarian",
-                    "comment": "It's a buyback. If they're using current equipment. Turn that in?",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Werner",
-                    "comment": "She agreed, as long as it doesn't end up somewhere else.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "With South Coast AQMD, the gas equipment must be dismantled. But with Axa Voucher, it does not have to be done. They're able to purchase batteries with a voucher, but do the South Coast AQMD rebate with the leaf blower stack. This is a lot of rebates that are given.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Vice Chair Cartunian",
-                    "comment": "Asked if the city has a database of large HOAs.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "David Nazarian",
-                    "comment": "We have a list of HOAs, and the name of the Presidents and Vice Presidents.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Vice Chair Cartunian",
-                    "comment": "The thought was to send a letter to those on the list.",
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Yes",
                     "timestamp": null
                 },
                 {
                     "speaker": "Commissioner Werner",
-                    "comment": "Also apartment building owners, where most do not know. I would like for people to know the neightborhood homeowners' council has been all over this for years.",
+                    "comment": "Yes",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "They've sent emails, and physical letters. Approached small businesses in specific bubbles.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Ex-Officio Khazaryan",
-                    "comment": "Is there a record of how many such outreach events can occur?  How much of the financial aspect is still going to allow for this kind of vouchers to exist.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "Axa Steel Vouchers, are in process of getting more. A core program with a State Department has a small rebate coming in March. Only 6 million remaining. They do not have contact for that.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Ex-Officio Khazaryan",
-                    "comment": "Instead of just giving the vouchers, doing the events to inform of the electric equipment, how it works, filling that aspect of the program.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "Axa brought in landscapers and equipment, so they wouldn't be able to repeat it exactly.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Werner",
-                    "comment": "I've been encouraging homeowners who hire gardeners, they should help bear the cost of it. These people are also screaming about noise.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Vice Chair Cartunian",
-                    "comment": "He noted that council made the right decision to shift the burden of potential penalties on gas-powered equipment on the homeowners, and using the talking point. It should be directed toward homeowner, not the gardner.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basemore",
-                    "comment": "The Chairperson suggested alternatives to leaf blowers.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Werner",
-                    "comment": "And 'No Mow,' is what you can do. You can be water wise, they have projects where, zero maintenance.  If the city can sponsor a 'Best' conversion to natural garden - not requiring mowing.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basemore",
-                    "comment": "Like a garden tour",
+                    "speaker": "Vice Chair Pinkerton",
+                    "comment": "Yes",
                     "timestamp": null
                 }
             ]
         },
         {
             "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
+            "title": "Action Items: Selection of Sustainability Commission Chairperson and Vice Chairperson for the 2025-2026 Term",
             "type": "Action",
-            "presenter": null,
-            "summary": null,
+            "presenter": "City Staff (Julian)",
+            "summary": "Nomination and selection of Chairperson and Vice Chairperson for the upcoming term.",
             "commissioner_comments": [
                 {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "It is the same, they would bring information back to those on one of those items.",
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "There are now nominations for Vice Chair.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Vice Chair Pinkerton",
+                    "comment": "Nominated himself.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Thought Vice Chair Pinkerton was Chair when she first started as commissioner.",
                     "timestamp": null
                 }
             ]
         },
         {
             "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
+            "title": "Action Items: Selection of Sustainability Commission Chairperson and Vice Chairperson for the 2025-2026 Term",
             "type": "Action",
-            "presenter": null,
-            "summary": null,
+            "presenter": "City Staff (Julian)",
+            "summary": "Nomination and selection of Chairperson and Vice Chairperson for the upcoming term.",
             "commissioner_comments": [
                 {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "For clarification, his motion includes the following adjustments: Adding text that this body voted for the motion, whether it be a 5-0 or 4-0 vote. Deleting the word 'would' and replace with 'expresses', the last word is active. Commissioner Pinkerton, absent.",
+                    "speaker": "Commissioner Chakerian",
+                    "comment": "Yes",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Werner",
+                    "comment": "Yes",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Vice Chair Pinkerton",
+                    "comment": "Yes",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Yes",
+                    "timestamp": null
+                }
+            ]
+        },
+        {
+            "item_number": 5,
+            "title": "Action Items: Selection of Ex-Officio Recruitment Ad Hoc Committee",
+            "type": "Action",
+            "presenter": "City Staff (Julian)",
+            "summary": "Selecting members for the ad hoc student member selection committee for ex-officio positions.",
+            "commissioner_comments": [
+                {
+                    "speaker": "City Staff (Julian)",
+                    "comment": "Announced the committee has two ex-officio positions.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Asked if there was any interest in becoming a member on the ad hoc committee.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Vice Chair Pinkerton",
+                    "comment": "Expressed interest in serving.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "We will conduct a roll call.",
+                    "timestamp": null
+                }
+            ]
+        },
+        {
+            "item_number": 5,
+            "title": "Action Items: Selection of Ex-Officio Recruitment Ad Hoc Committee",
+            "type": "Action",
+            "presenter": "City Staff (Julian)",
+            "summary": "Selecting members for the ad hoc student member selection committee for ex-officio positions.",
+            "commissioner_comments": [
+                {
+                    "speaker": "Commissioner Chakerian",
+                    "comment": "Yes",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Werner",
+                    "comment": "Yes",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Vice Chair Pinkerton",
+                    "comment": "Yes",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Yes",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Thank you for doing that.",
+                    "timestamp": null
+                }
+            ]
+        },
+        {
+            "item_number": 6,
+            "title": "Reports and Information: A: City of Glendale Sustainability Commission 2025-2026 Work Plan",
+            "type": "Report",
+            "presenter": "City Staff (Julian)",
+            "summary": "Overview of the commission's work plan for the upcoming year.",
+            "commissioner_comments": [
+                {
+                    "speaker": "City Staff (Julian)",
+                    "comment": "Stated that with the introduction of the new Commissioner, he wanted to review the work plan the commission voted on, and said it has focus areas such as outreach, building systems, urban ecosystems, mobility and land use, and social and governance systems.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Asked Julian, regarding the Vision Zero plan, if they needed to reappoint someone to the planning group or PDT.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Julian)",
+                    "comment": "Will bring the matter to the June Commission meeting.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Asked regarding the waste diversion scheduled in August if there are other presentations or items scheduled.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Julian)",
+                    "comment": "No, not at this time.",
                     "timestamp": null
                 },
                 {
                     "speaker": "Commissioner Werner",
-                    "comment": "She seconded that.",
+                    "comment": "Requested that the Department that handles cooling centers to present to the Commission on if there were enough of them or resources that they have or don't have, and what are the people utilizing them?",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Julian)",
+                    "comment": "Will try to aim for the July Commission meeting.",
                     "timestamp": null
                 }
             ]
         },
         {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
+            "item_number": 6,
+            "title": "Reports and Information: B: Sustainability Office Updates: Earth Day 2025 and Climate Action Adaptation Plan",
+            "type": "Update",
+            "presenter": "City Staff (Nora)",
+            "summary": "Updates on recent and upcoming sustainability events, and the Climate Action Adaptation Plan.",
             "commissioner_comments": [
                 {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "What is the actual format? Would be on the agenda as a consent item, or a memo?",
+                    "speaker": "City Staff (Nora)",
+                    "comment": "Announced that in March, the Sustainability Office held a clothing and art supply swap, as well as a repair cafe the following week.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "David Nazarian",
-                    "comment": "He stated that staff do not decide this.",
+                    "speaker": "City Staff (Nora)",
+                    "comment": "April 26, an Earth Day Fair was held.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Council Liaison Hajatian",
-                    "comment": "That it would be a communication item. Discuss, with the City Manager, on how, that would be included on the agenda.",
+                    "speaker": "City Staff (Nora)",
+                    "comment": "Upcoming event is May 4 is the 10K, May 10 is the clothing swap, May 17 is a county free tire recycling, May 24 is a nature hike, May 31 Let's Go Glendale Open Street Event, June 7 clothing swap, June 14 Repair Cafe.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "Can clarity be given how this will reach the council? What are the next steps? Will Draft the letter with any ammendment made today. Get signatures. The city manager will see the letter and will be aware, and be able to report this back",
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Wanted to make sure the public had access to the Electric Bus, and if any other City unveilings, such as Solar.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Vice Chair Cartunian",
-                    "comment": "My preference would be an agendized item. It should be a part of the public record. When this city council has received.",
+                    "speaker": "City Staff (Nora)",
+                    "comment": "The Solar Plan was Livestreamed.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Vice Chair Cartunian",
-                    "comment": "File and receive the comments?",
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Asked when Electric Buses are being put in service.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Vice Chair Cartunian",
-                    "comment": "Recommend that the residents, also the commissioners take that and highlight this in public comment and send out this is.",
+                    "speaker": "City Staff (Nora)",
+                    "comment": "I'm not too sure but I know it's pretty soon, and said they would follow up.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Asked about amount of tires.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Nora)",
+                    "comment": "There is no limit to Tires on .gov, and .gov will be up this week.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "What .gov Environmental Page you are on.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Nora)",
+                    "comment": "Said .gov is the sustainability home page, and /community is the event page.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Nora)",
+                    "comment": "Announced the CAAP has been released for public review.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Pointed out that for a while the link hasn't worked even as recent as 2 days ago, but is it the negative declaration, and is the draft plan there?",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Julian)",
+                    "comment": "Yes.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Julian)",
+                    "comment": "Said the link will be communicated to the public.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Does the date need to be pushed out again?",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Julian)",
+                    "comment": "I don't think the date needs to be extended.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Wish there were thousands of people to check on this.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Julian)",
+                    "comment": "Stated he apologizes for the links.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "I wish you thousands of comments.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "You may have to follow up on it.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Vice Chair Pinkerton",
+                    "comment": "Have you been getting comments or are you able to share that?",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Julian)",
+                    "comment": "Only one so far.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Should we extend the period to come into the meetings for comments.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "City Staff (Analyst)",
+                    "comment": "It would need to be taken look at to review documents and be presented within the 30 day period.",
                     "timestamp": null
                 }
             ]
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": [
-                {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "Will add that if the outside source cannot be identified, then you allocate funding with our budget.",
-                    "timestamp": null
-                }
-            ]
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": [
-                {
-                    "speaker": "Commissioner Werner",
-                    "comment": "She seconded the motion for clarity, including where the vote went, and who was present.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Council Liaison Hajatian",
-                    "comment": "This falls within her purview, so no vote is needed, but the commission has weighed in.",
-                    "timestamp": null
-                }
-            ]
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": [
-                {
-                    "speaker": "Commissioner Bartusek",
-                    "comment": "The following adjustments would be added by the Sustainability Commisison: Adding text that this body voted for the motion, whether it be a 5-0 or 4-0 vote; deleting the word 'would' and replace with 'expresses' - the last word is active, and noting Commissioner Pinkerton was absent.",
-                    "timestamp": null
-                }
-            ]
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Letter from the Sustainability Commission for City Council's Consideration of New Drive-Through Regulations (Continued)",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
         }
     ],
-    "oral_communications": [],
-    "adjournment_moved_by": "Commissioner Werner",
-    "adjournment_seconded_by": "Vice Chair Cartunian"
+    "oral_communications": [
+        {
+            "speaker": "Alan Deesh",
+            "comment": "Talked about Earthday and the trees being cut down at North Central by the new mayor who was selected. He requested that some stronger measures to be imposed on cutting the trees, because they were sequoias. He says that the mayor have a wonderful reply, but cannot impose stronger measures because of the charter. He stated that he went to the Chater Commision, as well. Says we are apporaching complex but urgent situation such as the fire. He says the way to do it, is to have a charasmatic leader, such as what Franklin Roosevelt did.",
+            "timestamp": null
+        }
+    ],
+    "adjournment_moved_by": "Chairperson Basmajian",
+    "adjournment_seconded_by": "Vice Chair Pinkerton"
 }
