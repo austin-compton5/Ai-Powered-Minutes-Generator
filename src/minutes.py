@@ -26,7 +26,8 @@ def generate_minutes(templates_dir, client, template, model, prompt, data_model)
         client["video_file"], 
         prompt,
         data_model)
-
+    print(response)
+    
     parsed_json = parsejson.parse_json(response)
     rendered_html = render.render_html(templates_dir, template, parsed_json)
 

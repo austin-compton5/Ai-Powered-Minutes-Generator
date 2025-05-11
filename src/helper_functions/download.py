@@ -6,8 +6,12 @@ DOWNLOADS_DIR = BASE_DIR / "downloads"
 
 def download_audio(youtube_url: str, output_dir: Path = DOWNLOADS_DIR) -> Path:
     output_dir.mkdir(exist_ok=True)
-    
-    # Define output path template
+    for f in output_dir.glob("*.mp3"):
+        try:
+            f.unlink()
+        except Exception as e:
+            print(f"Could not delete {f}: {e}")
+ 
     output_template = str(output_dir / "%(title)s.%(ext)s")
     
     # Build and run yt-dlp command
@@ -18,7 +22,7 @@ def download_audio(youtube_url: str, output_dir: Path = DOWNLOADS_DIR) -> Path:
         "-o", 
         output_template,
         youtube_url
-    ], capture_output=True, text=True)
+    ], capture_output=True, text=True, check=True)
     
     if result.returncode != 0:
         raise RuntimeError(f"yt-dlp failed: {result.stderr}")
