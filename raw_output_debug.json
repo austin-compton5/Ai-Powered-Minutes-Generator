@@ -1,10 +1,10 @@
 {
-    "meeting_date": "2025-05-01T00:00:00-07:00",
+    "meeting_date": "2025-05-01T00:00:00+00:00",
     "start_time": "18:00",
-    "end_time": "19:20",
+    "end_time": "19:00",
     "roll_call": {
         "present": [
-            "Commissioner Chakerian",
+            "Commissioner Chakarian",
             "Commissioner Werner",
             "Commissioner Pinkerton",
             "Vice Chair Kartunian",
@@ -16,9 +16,9 @@
     },
     "pledge_of_allegiance": true,
     "land_acknowledgement": true,
-    "agenda_posted_date": "2025-04-25T00:00:00-07:00",
+    "agenda_posted_date": "2025-04-25T00:00:00+00:00",
     "approval_of_minutes": {
-        "referenced_meeting_date": "2025-02-06T00:00:00-08:00",
+        "referenced_meeting_date": "2025-02-06T00:00:00+00:00",
         "moved_by": "Commissioner Werner",
         "seconded_by": "Commissioner Pinkerton",
         "ayes": [
@@ -30,42 +30,22 @@
     "general_commissioner_comments": [
         {
             "speaker": "Commissioner Werner",
-            "comment": "Welcomed the new Commissioner, Shant Chakerian, and encouraged him to introduce himself and share his interests in sustainability.",
+            "comment": "Welcomed the new commissioner, Shahn Chakarian, and encouraged him to introduce himself and his interests in sustainability.",
             "timestamp": null
         },
         {
-            "speaker": "Commissioner Chakerian",
-            "comment": "Expressed his pleasure to be part of the committee, mentioned his background as a former engineer, now an attorney in intellectual property, with experience in inventions and technologies related to alternative fuels and sustainability, and his excitement to help Glendale move forward in its goals towards greater sustainability. He also said he wants to get adoption of making the city a place with clean air, clean water, and a great place to live.",
+            "speaker": "Commissioner Chakarian",
+            "comment": "Expressed his pleasure to be part of the committee. He is a former engineer and current attorney in intellectual property. He has experience with inventions and technologies related to alternative fuels and sustainability, and is excited to help the city move forward in its goals towards greater sustainability.",
             "timestamp": null
         },
         {
             "speaker": "Commissioner Werner",
-            "comment": "Welcomed Commissioner Chakerian.",
+            "comment": "Inquired about the process for submitting a letter, referencing a previous letter introduced by former Commissioner Alec. She asked if a draft should be brought to a meeting or if it needed to be agendized.",
             "timestamp": null
         },
         {
-            "speaker": "Chairperson Basmajian",
-            "comment": "Welcomed Commissioner Chakerian.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Vice Chair Kartunian",
-            "comment": "Asked about the process for submitting a comment letter, referencing a previous letter introduced by former Commissioner Alec regarding drive-throughs.",
-            "timestamp": null
-        },
-        {
-            "speaker": "City Staff (Julian)",
-            "comment": "Confirmed the letter regarding drive-throughs was submitted to the City Manager and provided to Council, and that if another commissioner wanted to submit a letter, it would need to be agendized.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Vice Chair Kartunian",
-            "comment": "Expressed interest in agendizing a letter about outreach that the commission could do to the community, suggesting a speaker series or field trips to major infrastructure dealing with sustainability and will bring a draft letter to the next meeting.",
-            "timestamp": null
-        },
-        {
-            "speaker": "City Staff (Julian)",
-            "comment": "Explained he'd have to find out whether permission from the City Council is needed for the commission to conduct outreach and would bring his recommendations to the next meeting.",
+            "speaker": "Commissioner Werner",
+            "comment": "Expressed that she would like to agendize a letter about outreach that the commission could do to the community, including a speaker series and field trips.",
             "timestamp": null
         },
         {
@@ -74,423 +54,202 @@
             "timestamp": null
         },
         {
-            "speaker": "Vice Chair Kartunian",
-            "comment": "Announced that the state of California officially announced that Styrofoam or expanded polystyrene food ware is banned statewide, and that she sees still stores selling that in Glendale, and they should not be.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Chairperson Basmajian",
-            "comment": "Clarified that the statewide Styrofoam ban is effective immediately.",
+            "speaker": "Commissioner Pinkerton",
+            "comment": "Announced that one of the proposed projects, the prom teen clothing swap, will be held in about two weeks at the Glendale Central Library Teen Center and is being promoted through social media.",
             "timestamp": null
         },
         {
             "speaker": "Vice Chair Kartunian",
-            "comment": "Clarified EPS refers to expanded polystyrene or foam foodware, and it's foodware only, not other EPS products.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Student Commissioner",
-            "comment": "One of the proposed projects is going to be held in about two weeks, the prom teen clothing swap in the Glendale Central Library Teen Center and so they're very excited about that and they're promoting it through the social media apps and whatnot.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Student Commissioner",
-            "comment": "Share that they will get into the Earth Day Fair more in a later agenda part, but that was another part of the student commissioner projects which has now passed, so we'll get on it later.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Chairperson Basmajian",
-            "comment": "Asked the Student Commissioner to share more about the clothing swap.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Student Commissioner",
-            "comment": "It is going to be inspired by the usual clothing swaps held by the Sustainability Commission, but it's centered more on a teen audience because we want to reach out to people our age to learn more about sustainable practices and through a more accessible way, which is through a clothing swap, since it's prom season, people are looking to buy dresses and to not spend as much they could just hop in the library and look for some.",
+            "comment": "Stated that the Earth Day Fair would be discussed later in the agenda and that it was another part of the student commissioner projects that has now passed.",
             "timestamp": null
         },
         {
             "speaker": "Vice Chair Kartunian",
-            "comment": "Questioned if the clothing swap would be a venue to promote against fast fashion, which is fashion manufactured to last little, probably months less than a year and then you toss it.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Student Commissioner",
-            "comment": "Part of the proposal that Samantha had was to have some education against fast fashion, too, and the reason that the student commissioners proposed the idea in the first place was to, you know, have a different channel that wasn't subscribing to fast fashion. She also shared there is a tailor, a photo booth and makeup artist to do some consultations, as well as goody bags.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Vice Chair Kartunian",
-            "comment": "Stated it was very impressive.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Chairperson Basmajian",
-            "comment": "Concluded the item with remarks about the state of things and headwinds on sustainability and environmental work at all levels, but certainly at the federal level, commended fellow commissioners and city staff for their continued work, said they are all in it together, and thanked everyone for their commitment to the commission.",
+            "comment": "Shared more about the clothing swap, explaining that it is centered more on a teen audience to reach out to people their age to learn more about sustainable practices through a clothing swap. Since it's prom season, people are looking to buy dresses, and this would allow them to not spend as much.",
             "timestamp": null
         },
         {
             "speaker": "Commissioner Werner",
-            "comment": "Wanted to wish former Sustainability Commissioner, Alec Bartersian good luck on the Transportation Commission that he's now on, said that he was one of the original commissioners along with Commissioner Pinkerton, Vice Chair Kartunian, and herself, and they hope that he does great things on his new commission.",
+            "comment": "Asked if the clothing swap would be a venue to promote against fast fashion.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Vice Chair Kartunian",
+            "comment": "Explained that part of the proposal was to have some education against fast fashion. The student commissioners proposed the idea to have a different channel that wasn't subscribing to fast fashion. There will also be a tailor available to alter items, a photo booth, and a makeup artist for consultations. Goody bags donated by businesses will also be given out.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Commissioner Werner",
+            "comment": "Expressed that the clothing swap was very impressive.",
             "timestamp": null
         },
         {
             "speaker": "Chairperson Basmajian",
-            "comment": "Said they hope that he comes and speaks as needed because I'm sure we would value his input from the audience.",
+            "comment": "Acknowledged that we are living in a time where there are a lot of headwinds when it comes to sustainability and environmental work, especially at the federal level. He commended the commissioners and city staff for their continued work on these issues.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Commissioner Werner",
+            "comment": "Wished former Sustainability Commissioner Alec Bartsosaf good luck on the Transportation Commission. She noted that he was one of the original commissioners and that his expertise will be missed. She wished him well on his next adventure.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Chairperson Basmajian",
+            "comment": "Hoped that Alec would come and speak as needed, as his input would be valued.",
             "timestamp": null
         }
     ],
     "agenda_items": [
         {
-            "item_number": 4,
-            "title": "Oral Communication",
+            "item_number": 1,
+            "title": "One C Report Regarding Posting of the Agenda",
+            "type": "Report",
+            "presenter": null,
+            "summary": "The agenda for the May 1, 2025 meeting was posted on April 25, 2025, on the bulletin board outside City Hall.",
+            "commissioner_comments": []
+        },
+        {
+            "item_number": 2,
+            "title": "Approval of Minutes, 2A: Approval of the Minutes of the Commission Regular Meeting Held February 6, 2025",
+            "type": "Action",
+            "presenter": null,
+            "summary": null,
+            "commissioner_comments": [
+                {
+                    "speaker": "Commissioner Chakarian",
+                    "comment": "Stated that he had reviewed the minutes and approved them.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Ex-Officio Ghazarian",
+                    "comment": "Inquired if Commissioner Chakarian had watched the tape of the meeting, as there were minutes of the meeting.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Chakarian",
+                    "comment": "Responded that he had not watched the tape.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Ex-Officio Ghazarian",
+                    "comment": "Recommended that Commissioner Chakarian abstain from voting on the minutes.",
+                    "timestamp": null
+                }
+            ]
+        },
+        {
+            "item_number": 3,
+            "title": "Board Member Staff Comments",
             "type": "Oral Communication",
             "presenter": null,
-            "summary": "Public comment period for items within the jurisdiction of the Sustainability Commission.",
+            "summary": null,
+            "commissioner_comments": []
+        },
+        {
+            "item_number": 4,
+            "title": "Oral Communications: Discussion is Limited to Items Within the Jurisdiction of the Sustainability Commission",
+            "type": "Oral Communication",
+            "presenter": null,
+            "summary": "Public comment was opened. One card was received from Alan Dish.",
             "commissioner_comments": []
         },
         {
             "item_number": 5,
-            "title": "Action Items: Selection of Sustainability Commission Chairperson and Vice Chairperson for the 2025-2026 Term",
+            "title": "Action Items, 5A: Selection of Sustainability Commission Chairperson and Vice Chairperson for the 2025-2026 Term",
             "type": "Action",
-            "presenter": "City Staff (Julian)",
-            "summary": "Nomination and selection of Chairperson and Vice Chairperson for the upcoming term.",
+            "presenter": null,
+            "summary": null,
             "commissioner_comments": [
                 {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "Stated that this is the annual selection of the chair and vice chair person, and informed he reached out to commissioner Kartunian and asked him if he was going to put himself forward for the chair person position, and he did not respond.",
+                    "speaker": "Commissioner Werner",
+                    "comment": "Nominated herself as chair, stating that it was her turn based on the rules used for the mayor's selection. She has served the longest on the commission since being chair.",
                     "timestamp": null
                 },
                 {
                     "speaker": "Commissioner Werner",
-                    "comment": "Nominated herself for chair, citing her long service on the commission and wanting to keep it consistence.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Had no nomination at this time.",
-                    "timestamp": null
-                }
-            ]
-        },
-        {
-            "item_number": 5,
-            "title": "Action Items: Selection of Sustainability Commission Chairperson and Vice Chairperson for the 2025-2026 Term",
-            "type": "Action",
-            "presenter": "City Staff (Julian)",
-            "summary": "Nomination and selection of Chairperson and Vice Chairperson for the upcoming term.",
-            "commissioner_comments": [
-                {
-                    "speaker": "Commissioner Chakerian",
-                    "comment": "Yes",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Yes",
+                    "comment": "Asked if the chair and vice chair selection was done all at once or separately.",
                     "timestamp": null
                 },
                 {
                     "speaker": "Commissioner Werner",
-                    "comment": "Yes",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Vice Chair Pinkerton",
-                    "comment": "Yes",
+                    "comment": "Stated that she would like to put herself out there for vice chair.",
                     "timestamp": null
                 }
             ]
         },
         {
             "item_number": 5,
-            "title": "Action Items: Selection of Sustainability Commission Chairperson and Vice Chairperson for the 2025-2026 Term",
+            "title": "Action Items, 5B: Selection of Ex-Officio Recruitment Ad Hoc Committee",
             "type": "Action",
-            "presenter": "City Staff (Julian)",
-            "summary": "Nomination and selection of Chairperson and Vice Chairperson for the upcoming term.",
+            "presenter": null,
+            "summary": null,
             "commissioner_comments": [
                 {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "There are now nominations for Vice Chair.",
+                    "speaker": "Commissioner Werner",
+                    "comment": "Asked if staff would be sending communications to the different schools, noting that the commissioners had done it one year with mixed results.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Vice Chair Pinkerton",
-                    "comment": "Nominated himself.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Thought Vice Chair Pinkerton was Chair when she first started as commissioner.",
-                    "timestamp": null
-                }
-            ]
-        },
-        {
-            "item_number": 5,
-            "title": "Action Items: Selection of Sustainability Commission Chairperson and Vice Chairperson for the 2025-2026 Term",
-            "type": "Action",
-            "presenter": "City Staff (Julian)",
-            "summary": "Nomination and selection of Chairperson and Vice Chairperson for the upcoming term.",
-            "commissioner_comments": [
-                {
-                    "speaker": "Commissioner Chakerian",
-                    "comment": "Yes",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Werner",
-                    "comment": "Yes",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Vice Chair Pinkerton",
-                    "comment": "Yes",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Yes",
-                    "timestamp": null
-                }
-            ]
-        },
-        {
-            "item_number": 5,
-            "title": "Action Items: Selection of Ex-Officio Recruitment Ad Hoc Committee",
-            "type": "Action",
-            "presenter": "City Staff (Julian)",
-            "summary": "Selecting members for the ad hoc student member selection committee for ex-officio positions.",
-            "commissioner_comments": [
-                {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "Announced the committee has two ex-officio positions.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Asked if there was any interest in becoming a member on the ad hoc committee.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Vice Chair Pinkerton",
-                    "comment": "Expressed interest in serving.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "We will conduct a roll call.",
-                    "timestamp": null
-                }
-            ]
-        },
-        {
-            "item_number": 5,
-            "title": "Action Items: Selection of Ex-Officio Recruitment Ad Hoc Committee",
-            "type": "Action",
-            "presenter": "City Staff (Julian)",
-            "summary": "Selecting members for the ad hoc student member selection committee for ex-officio positions.",
-            "commissioner_comments": [
-                {
-                    "speaker": "Commissioner Chakerian",
-                    "comment": "Yes",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Werner",
-                    "comment": "Yes",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Vice Chair Pinkerton",
-                    "comment": "Yes",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Yes",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Thank you for doing that.",
+                    "speaker": "Commissioner Chakarian",
+                    "comment": "Expressed interest in being the person on the committee.",
                     "timestamp": null
                 }
             ]
         },
         {
             "item_number": 6,
-            "title": "Reports and Information: A: City of Glendale Sustainability Commission 2025-2026 Work Plan",
+            "title": "Reports and Information, A: City of Glendale Sustainability Commission 2025-26 Work Plan",
             "type": "Report",
-            "presenter": "City Staff (Julian)",
-            "summary": "Overview of the commission's work plan for the upcoming year.",
+            "presenter": null,
+            "summary": null,
             "commissioner_comments": [
                 {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "Stated that with the introduction of the new Commissioner, he wanted to review the work plan the commission voted on, and said it has focus areas such as outreach, building systems, urban ecosystems, mobility and land use, and social and governance systems.",
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Asked about the Vision Zero plan and mentioned that someone needs to be reappointed to that committee.",
                     "timestamp": null
                 },
                 {
                     "speaker": "Chairperson Basmajian",
-                    "comment": "Asked Julian, regarding the Vision Zero plan, if they needed to reappoint someone to the planning group or PDT.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "Will bring the matter to the June Commission meeting.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Asked regarding the waste diversion scheduled in August if there are other presentations or items scheduled.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "No, not at this time.",
+                    "comment": "Asked if there were other presentations or items on the year that have been scheduled or considered for future meetings.",
                     "timestamp": null
                 },
                 {
                     "speaker": "Commissioner Werner",
-                    "comment": "Requested that the Department that handles cooling centers to present to the Commission on if there were enough of them or resources that they have or don't have, and what are the people utilizing them?",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "Will try to aim for the July Commission meeting.",
+                    "comment": "Stated that she has been asking about the effectiveness of the cooling centers and heat resistance, and if the department that deals with those could come to a meeting and let the commission know if there are enough of them, if people are utilizing them, and what resources they have or don't have.",
                     "timestamp": null
                 }
             ]
         },
         {
-            "item_number": 6,
-            "title": "Reports and Information: B: Sustainability Office Updates: Earth Day 2025 and Climate Action Adaptation Plan",
+            "item_number": 7,
+            "title": "Sustainability Office Updates, Earth Day 2025 and Climate Action Adaptation Plan",
             "type": "Update",
-            "presenter": "City Staff (Nora)",
-            "summary": "Updates on recent and upcoming sustainability events, and the Climate Action Adaptation Plan.",
+            "presenter": null,
+            "summary": null,
             "commissioner_comments": [
                 {
-                    "speaker": "City Staff (Nora)",
-                    "comment": "Announced that in March, the Sustainability Office held a clothing and art supply swap, as well as a repair cafe the following week.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Nora)",
-                    "comment": "April 26, an Earth Day Fair was held.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Nora)",
-                    "comment": "Upcoming event is May 4 is the 10K, May 10 is the clothing swap, May 17 is a county free tire recycling, May 24 is a nature hike, May 31 Let's Go Glendale Open Street Event, June 7 clothing swap, June 14 Repair Cafe.",
+                    "speaker": "Chairperson Basmajian",
+                    "comment": "Asked about the unveiling of the electric buses and the city-owned solar, and if either of those were scheduled.",
                     "timestamp": null
                 },
                 {
                     "speaker": "Chairperson Basmajian",
-                    "comment": "Wanted to make sure the public had access to the Electric Bus, and if any other City unveilings, such as Solar.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Nora)",
-                    "comment": "The Solar Plan was Livestreamed.",
+                    "comment": "Asked if they gave any estimate on when the buses would actually be used.",
                     "timestamp": null
                 },
                 {
                     "speaker": "Chairperson Basmajian",
-                    "comment": "Asked when Electric Buses are being put in service.",
+                    "comment": "Suggested that it would be cool to have everyone out for the first bus ride.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "City Staff (Nora)",
-                    "comment": "I'm not too sure but I know it's pretty soon, and said they would follow up.",
+                    "speaker": "Commissioner Werner",
+                    "comment": "Asked about the tire recycling and if there was a limit of five tires.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Asked about amount of tires.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Nora)",
-                    "comment": "There is no limit to Tires on .gov, and .gov will be up this week.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "What .gov Environmental Page you are on.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Nora)",
-                    "comment": "Said .gov is the sustainability home page, and /community is the event page.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Nora)",
-                    "comment": "Announced the CAAP has been released for public review.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Pointed out that for a while the link hasn't worked even as recent as 2 days ago, but is it the negative declaration, and is the draft plan there?",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "Yes.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "Said the link will be communicated to the public.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Does the date need to be pushed out again?",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "I don't think the date needs to be extended.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Wish there were thousands of people to check on this.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "Stated he apologizes for the links.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "I wish you thousands of comments.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "You may have to follow up on it.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Vice Chair Pinkerton",
-                    "comment": "Have you been getting comments or are you able to share that?",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Julian)",
-                    "comment": "Only one so far.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Basmajian",
-                    "comment": "Should we extend the period to come into the meetings for comments.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "City Staff (Analyst)",
-                    "comment": "It would need to be taken look at to review documents and be presented within the 30 day period.",
+                    "speaker": "Commissioner Werner",
+                    "comment": "Stated that she had a question about the Climate Action Adaptation Plan and noted that the link wasn't working. She asked if this was the negative declaration or the draft plan, and if the negative declaration was attached to it.",
                     "timestamp": null
                 }
             ]
@@ -498,11 +257,11 @@
     ],
     "oral_communications": [
         {
-            "speaker": "Alan Deesh",
-            "comment": "Talked about Earthday and the trees being cut down at North Central by the new mayor who was selected. He requested that some stronger measures to be imposed on cutting the trees, because they were sequoias. He says that the mayor have a wonderful reply, but cannot impose stronger measures because of the charter. He stated that he went to the Chater Commision, as well. Says we are apporaching complex but urgent situation such as the fire. He says the way to do it, is to have a charasmatic leader, such as what Franklin Roosevelt did.",
+            "speaker": "Alan Dish",
+            "comment": "Expressed his concerns about the trees that were cut down in North Central at the development site. He asked the new mayor if stronger measures could be imposed, such as declaring a state of emergency, to put a ban on cutting any trees, especially the massive sequoias. He stated that the mayor gave a wonderful reply but could not do it because of the charter. He asked the commission to see what is in their capacity to pass some kind of recommendations to the city council. He stated that he is not so opposed to the form, in the sense that we are approaching a complex but urgent situation with ecology, fires, and developers, and that we may need to impose some stronger measures. He stated that the way to do it is with some kind of charismatic leader, because the people will not awaken spontaneously. He concluded by stating that even FDR was making certain decisions bypassing Congress, and that he is not so opposed to having a kind of mayoral power that can do those decisions. He stated that commissions play a very significant role.",
             "timestamp": null
         }
     ],
-    "adjournment_moved_by": "Chairperson Basmajian",
-    "adjournment_seconded_by": "Vice Chair Pinkerton"
+    "adjournment_moved_by": "Commissioner Werner",
+    "adjournment_seconded_by": "Vice Chair Kartunian"
 }

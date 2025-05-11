@@ -11,7 +11,9 @@ def call_gemini(client, model, video_file, prompt, schema):
                     model=model,
                     contents=[video_file, prompt], 
                     config=types.GenerateContentConfig(
-                        response_mime_type="application/json", response_schema=schema 
+                        response_mime_type="application/json", 
+                        response_schema=schema,
+                        temperature = 0.2 
                     )
                 )
     except Exception as e: 

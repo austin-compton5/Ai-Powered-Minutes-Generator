@@ -1,7 +1,7 @@
 import subprocess
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parents[1]
+BASE_DIR = Path(__file__).resolve().parents[2]
 DOWNLOADS_DIR = BASE_DIR / "downloads"
 
 def download_audio(youtube_url: str, output_dir: Path = DOWNLOADS_DIR) -> Path:
@@ -15,7 +15,8 @@ def download_audio(youtube_url: str, output_dir: Path = DOWNLOADS_DIR) -> Path:
         "yt-dlp",
         "-x",  # extract audio
         "--audio-format", "mp3",
-        "-o", output_template,
+        "-o", 
+        output_template,
         youtube_url
     ], capture_output=True, text=True)
     

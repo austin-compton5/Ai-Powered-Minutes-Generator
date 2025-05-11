@@ -32,9 +32,8 @@ def generate_minutes(templates_dir, client, template, model, prompt, data_model)
 
     return rendered_html
 
-def generate_minutes_from_youtube(youtube_url):
+def generate_minutes_from_youtube(download_path):
 
-    youtube_file_path = download.download_audio(youtube_url)
-    genai_client = client.setup_client(youtube_file_path)
+    genai_client = client.setup_client(download_path)
     minutes = generate_minutes(templates_dir, genai_client, template=template, model=model, prompt=prompt, data_model=data_model)
     return minutes
