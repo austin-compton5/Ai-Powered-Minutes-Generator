@@ -3,3 +3,4 @@ python-dotenv
 yt-dlp
 pillow
 jinja2
+streamlit

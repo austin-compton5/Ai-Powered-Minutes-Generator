@@ -6,6 +6,7 @@ DOWNLOADS_DIR = BASE_DIR / "downloads"
 
 def download_audio(youtube_url: str, output_dir: Path = DOWNLOADS_DIR) -> Path:
     output_dir.mkdir(exist_ok=True)
+    
     for f in output_dir.glob("*.mp3"):
         try:
             f.unlink()
