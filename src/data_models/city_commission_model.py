@@ -26,6 +26,7 @@ class AgendaItem(BaseModel):
     commissioner_comments: List[SpeakerComment]
 
 class MeetingMinutes(BaseModel):
+    meeting_title: str 
     meeting_date: datetime
     start_time: str
     end_time: str

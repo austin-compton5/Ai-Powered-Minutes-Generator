@@ -8,6 +8,8 @@
             font-family: Arial, sans-serif;
             line-height: 1.6;
             margin: 40px;
+            background-color: white;
+            color: black;
         }
         h1, h2 {
             border-bottom: 1px solid #ccc;
@@ -27,7 +29,7 @@
 </head>
 <body>
 
-<h1>City of Glendale Sustainability Commission</h1>
+<h1>{{meeting.meeting_title}}</h1>
 <h2>Minutes of Special Meeting – {{ meeting.meeting_date.strftime('%B %d, %Y') }}</h2>
 
 <p><strong>Start Time:</strong> {{ meeting.start_time }}<br>

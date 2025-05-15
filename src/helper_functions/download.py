@@ -15,10 +15,13 @@ def download_audio(youtube_url: str, output_dir: Path = DOWNLOADS_DIR) -> Path:
  
     output_template = str(output_dir / "%(title)s.%(ext)s")
     
+    print(f"downloading file at path {output_template}")
+
     # Build and run yt-dlp command
     result = subprocess.run([
         "yt-dlp",
-        "-x",  # extract audio
+        "-f", "bestaudio[ext=m4a]/bestaudio",
+        "-x", 
         "--audio-format", "mp3",
         "-o", 
         output_template,
@@ -30,6 +33,7 @@ def download_audio(youtube_url: str, output_dir: Path = DOWNLOADS_DIR) -> Path:
     
     # Optional: parse filename from output or glob the directory
     files = list(output_dir.glob("*.mp3"))
+    
     if not files:
         raise FileNotFoundError("Audio download failed.")
     
