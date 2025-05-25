@@ -1,484 +1,232 @@
 {
-    "meeting_title": "Glendale Sustainability Commission Meeting",
-    "meeting_date": "2025-05-01T00:00:00+00:00",
-    "start_time": "18:00",
-    "end_time": "19:00",
+    "meeting_title": "Sustainability Commission",
+    "meeting_date": "2024-11-07T00:00:00-08:00",
+    "start_time": "6:01 PM",
+    "end_time": "7:44 PM",
     "roll_call": {
         "present": [
-            "Commissioner Chakarian",
+            "Commissioner Barchusf",
             "Commissioner Werner",
             "Commissioner Pinkerton",
+            "Pasha Kartunian",
             "Chairperson Bazemore",
-            "Ex-Officio Sanchez",
-            "Ex-Officio Khazaryan"
+            "Ex-officio Sanchez",
+            "Ex-officio Ghazaryan"
         ],
-        "absent": [
-            "Vice Chair Kartunian"
-        ]
+        "absent": []
     },
     "pledge_of_allegiance": true,
     "land_acknowledgement": true,
-    "agenda_posted_date": "2025-04-25T00:00:00+00:00",
+    "agenda_posted_date": "2024-11-01T00:00:00-07:00",
     "approval_of_minutes": {
-        "referenced_meeting_date": "2025-02-06T00:00:00+00:00",
-        "moved_by": "Commissioner Werner",
-        "seconded_by": "Commissioner Pinkerton",
+        "referenced_meeting_date": "2024-10-03T00:00:00-07:00",
+        "moved_by": "Commissioner Pinkerton",
+        "seconded_by": "Commissioner Barchusf",
         "ayes": [
+            "Commissioner Barchusf",
             "Commissioner Werner",
             "Commissioner Pinkerton",
+            "Pasha Kartunian",
             "Chairperson Bazemore"
         ]
     },
     "general_commissioner_comments": [
         {
             "speaker": "Commissioner Werner",
-            "comment": "Welcomed the new commissioner, Shant Chakarian, and encouraged him to introduce himself and his interests in sustainability.",
+            "comment": "Expressed concern for those affected by recent fires, emphasizing climate change is a serious threat, even to those outside high-risk areas. Urged residents to be prepared with a go-bag and clear brush around their homes.",
             "timestamp": null
         },
         {
-            "speaker": "Commissioner Chakarian",
-            "comment": "Expressed pleasure at joining the committee. He introduced himself as a former engineer and current attorney specializing in intellectual property. He has experience with inventions and technologies related to alternative fuels, sustainability, and other technologies aimed at creating a more sustainable and environmentally friendly world. As a Glendale resident of over ten years, he is excited to contribute to the city's sustainability goals.",
+            "speaker": "Ex-officio Sanchez",
+            "comment": "She and Ex-officio Ghazaryan have been meeting to advance their project ideas from the last meeting. She described plans for a block party featuring local market vendors, businesses, and high school organizations promoting sustainability. They are seeking input on merging this event with existing Earth Day Fair projects for better funding and exposure, as well as to explore potential funding sources.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Ex-officio Ghazaryan",
+            "comment": "Shared that they planned a cultural food celebration event at the Adult Recreation Center in February, involving community members bringing in cultural and sustainable dishes, along with a clothing swap event for teens at the central library. She noted logistics and outreach details for these events.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Commissioner Barchusf",
+            "comment": "Suggested focusing on events with built-in audiences, such as the summer car show, by adding a sustainability corner, and marrying the cultural food tour with an existing event like the Repair Fair to reach a broader public.",
+            "timestamp": null
+        },
+        {
+            "speaker": "Commissioner Pinkerton",
+            "comment": "Proposed that the prom clothing swap be held at the Earth Day event, or that it could be too late in the spring.",
             "timestamp": null
         },
         {
             "speaker": "Commissioner Werner",
-            "comment": "Thanked Commissioner Chakarian and welcomed him again.",
+            "comment": "Suggested inquiring whether the city's Unity Day is still active, offering another opportunity for collaboration.",
             "timestamp": null
         },
         {
             "speaker": "Chairperson Bazemore",
-            "comment": "Welcomed the new Commissioner.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Pinkerton",
-            "comment": "Inquired about the process for submitting a comment letter introduced by former Commissioner Alec, asking if a draft should be brought to a prior meeting for consideration.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Staff",
-            "comment": "Confirmed that the letter regarding drive-throughs was submitted to the city manager and likely provided to the council, but clarified the need to agenda any subsequent letter.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Pinkerton",
-            "comment": "Clarified his original question.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Staff",
-            "comment": "Confirmed any such action needs to be agendized.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Pinkerton",
-            "comment": "Expressed a desire to agendize a letter concerning outreach to the community, with topics such as speaker series and field trips, and will bring a draft to the next meeting.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Staff",
-            "comment": "Asked for clarification, confirming the proposal involves the commission taking a stance on outreach efforts.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Pinkerton",
-            "comment": "Confirmed, noting the need to coordinate with three David's office and make interested members available.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Staff",
-            "comment": "Indicated they would determine if council permission is required and would bring recommendations to the next meeting.",
+            "comment": "These are great ideas and he hopes to see and attend some. He suggested Art Sock Plaza as a possible location for the cultural food event to boost current businesses.",
             "timestamp": null
         },
         {
             "speaker": "Commissioner Werner",
-            "comment": "Seconded agendizing that item.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Pinkerton",
-            "comment": "Noted the state of California officially banned Styrofoam food ware, despite ongoing bill reviews, and pointed out local stores might still be selling them.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Chairperson Bazemore",
-            "comment": "Asked to confirm that statewide ban is effective immediately.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Pinkerton",
-            "comment": "Affirmed its immediate statewide effect.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Werner",
-            "comment": "Clarified EPS refers to expanded polystyrene.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Pinkerton",
-            "comment": "Confirmed EPS applies only to food ware, not other EPS products.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Student Commissioner",
-            "comment": "Announced an upcoming prom-themed clothing swap on May 10th at the Glendale Central Library Teen Center, promoted through social media.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Student Commissioner",
-            "comment": "Mentioned the Earth Day Fair, stating it was another part of the student commissioner projects that has now passed and would be discussed later.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Chairperson Bazemore",
-            "comment": "Asked the Student Commissioner to share more about the clothing swap.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Student Commissioner",
-            "comment": "Explained the clothing swap is geared towards teens to teach sustainable practices through an accessible event during prom season, providing an alternative to buying dresses.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Chairperson Bazemore",
-            "comment": "Recognized the plan.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Pinkerton",
-            "comment": "Suggested promoting anti-fast fashion at the swap, due to clothing often being thrown out after a short amount of time.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Student Commissioner",
-            "comment": "Verified part of their plan is to educate against fast fashion. A tailor would be at the event and will provide tailoring for students needing adjustments.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Student Commissioner",
-            "comment": "A photo booth will be at the event and makeup consultations. And goodie bags would be given out.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Pinkerton",
-            "comment": "Commended the work.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Chairperson Bazemore",
-            "comment": "Acknowledged the headwinds facing sustainability efforts at all levels and commended the fellow commissioners and city staff for their work.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Commissioner Werner",
-            "comment": "Wished former Sustainability Commissioner Alec Bartrassof good luck on his new Transportation Commission. He was an original commissioner and is missed.",
-            "timestamp": null
-        },
-        {
-            "speaker": "Chairperson Bazemore",
-            "comment": "Hoped Alec would speak as needed.",
+            "comment": "Encouraged consideration of organic waste reduction, embedded greenhouse gasses, cooking with scraps, and freezing food, proposing collaboration with restaurants to promote sustainable food practices.",
             "timestamp": null
         }
     ],
     "agenda_items": [
         {
-            "item_number": 1,
-            "title": "One. City Report Regarding Posting of the Agenda",
-            "type": "Report",
-            "presenter": null,
-            "summary": "The agenda for the May 1, 2025, meeting of the Sustainability Commission was posted April 25, 2025, on the bulletin board outside City Hall.",
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 2,
-            "title": "Two. Approval of Minutes, 2A Approval of the Minutes of the Commission Regular Meeting Held February 6, 2025",
-            "type": "Action",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": [
-                {
-                    "speaker": "Commissioner Chakarian",
-                    "comment": "Acknowledged reviewing the minutes and stated his approval.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Werner",
-                    "comment": "Recommended abstaining from the vote, because they didn't watch the tape of the meeting.",
-                    "timestamp": null
-                }
-            ]
-        },
-        {
-            "item_number": 3,
-            "title": "Three. Board Member/Staff Comments",
-            "type": "Oral Communication",
-            "presenter": null,
-            "summary": null,
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 5,
-            "title": "Five. Action Items, 5A Selection of Sustainability Commission Chairperson and Vice-Chairperson for the 2025-2026 Term",
-            "type": "Action",
-            "presenter": "Staff",
-            "summary": "The commissioners will nominate a chairperson and vice-chairperson for the upcoming term ending in March, according to procedures.",
-            "commissioner_comments": [
-                {
-                    "speaker": "Staff",
-                    "comment": "Inquired about Commissioner Kartunian's intentions for the Chairperson position but received no response, therefore he would not be putting himself forward for that position.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Werner",
-                    "comment": "Nominated herself for Chair, citing her tenure, and noted the upcoming term uses similar rules to the mayoral election.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Bazemore",
-                    "comment": "Acknowledged the nomination.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Confirmed seconds aren't required but nominations are.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Bazemore",
-                    "comment": "Inquired about nominations for Vice Chair.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Werner",
-                    "comment": "Nominated Vice Chair Pinkerton, noting the long wait.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Bazemore",
-                    "comment": "Acknowledged and thanked the previous Chairperson.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Pinkerton",
-                    "comment": "Acknowledged that were the Vice Chair when Commissioner Werner was Chair.",
-                    "timestamp": null
-                }
-            ]
-        },
-        {
-            "item_number": 5,
-            "title": "Five. Action Items, 5B Selection of Ex-Officio Recruitment Ad Hoc Committee",
-            "type": "Action",
-            "presenter": "Staff",
-            "summary": "The commission will select an ad hoc committee to undertake the selection and interviews of ex-officio candidates for the 2025-2026 commission term. The application for the positions closed June 15, with interviews to be completed by June 25. Recommendations will be made to the full commission at the July 3 commission meeting. The ad hoc committee needs one voting member.",
-            "commissioner_comments": [
-                {
-                    "speaker": "Staff",
-                    "comment": "Inquired if staff is sending out communications to schools.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Confirmed communications with schools will be sent through various outlets. Staff is making sure communications reach as many people as possible.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Werner",
-                    "comment": "Expressed interest in the role.",
-                    "timestamp": null
-                }
-            ]
-        },
-        {
             "item_number": 6,
-            "title": "Six. Reports and Information, A. City of Glendale Sustainability Commission 2025-2026 Work Plan",
+            "title": "Legislative Year Update",
             "type": "Report",
-            "presenter": "Staff",
-            "summary": "Overview of 2025 Work Plan with highlights focus area of outreach, building systems, urban ecosystems, mobility and land use, and social and governance systems.",
+            "presenter": "Kira Ross",
+            "summary": "Ms. Ross summarized relevant legislative updates, including an overview of the state budget, discussions around SB 1053 (plastic bags at grocery checkout) and SB 1221 (building decarbonization pilot program), and upcoming discussion of SB 1383 regarding organic waste. She also reported on activity around special legislative sessions and Prop 4 (SB 867) the Climate Bond. Areas being watched for the city are recycle water funding, extreme heat, and water allocation.",
             "commissioner_comments": [
                 {
-                    "speaker": "Staff",
-                    "comment": "Reminded members on work plan details. The student lead engagement projects, working on Earth day. Recruitement for more ex officio members and collaborative community and city project meetings with community members.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Mobility and Land use will support Vision Zero plans and EV expansion.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Regarding building systems will review current programs and fire resistant models and also working with US Green Build Council.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Urban ecosystems with support green expansion and programs with waste management and lower the dependence on water sources.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Social governance systems to include recommendations to City Counsel and Sacramento on prominent waste streams and actions.",
+                    "speaker": "Chairperson Bazemore",
+                    "comment": "Thanked Ms. Ross for coming and requested they do this annually.",
                     "timestamp": null
                 },
                 {
                     "speaker": "Chairperson Bazemore",
-                    "comment": "Asked to add to the agendize. That for members to look at the new maps for new fire data.",
+                    "comment": "Asked about a the city's position with regard to legislation, requesting that staff let the commission know when it exceeds the commission's perview.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Staff",
-                    "comment": "Will ask those team members to present in future meetings.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Werner",
-                    "comment": "Asks for clarification on if meetings could have someone update on cool centers and see if the City had enough of them. Along with information on resources, and things that may can make recommendations on.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Will arrange to have someone present for July meeting to discuss this topic.",
+                    "speaker": "Commissioner Barchusf",
+                    "comment": "Inquired about the working relationship between the city, Cal Cities, and CMUA, given that sometimes the city remains silent on bills supported by CMUA, and what the determining factor is on what positions the city takes.",
                     "timestamp": null
                 },
                 {
                     "speaker": "Commissioner Werner",
-                    "comment": "Would like it sooner in June as summer gets really hot.",
+                    "comment": "Confirmed she watched that part of the city council meeting and requested in the future in-person meetings are included as the baseline for the bid, or that it would be in the change order.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Chairperson Bazemore",
-                    "comment": "Ask for an update on these centers and if anything could be recommended.",
+                    "speaker": "Commissioner Pinkerton",
+                    "comment": "She and others understood that the commission had no authority, but that the quote was that the commission began directing city staff and Rincon to do extra work and burn through the original contract funds.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Staff",
-                    "comment": "They will find the point of contact for future meetings.",
+                    "speaker": "Commissioner Pinkerton",
+                    "comment": "Pointed out it was good to be reminded that we are not allowed to incur expenses on behalf of the city.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Pasha Kartunian",
+                    "comment": "Inquired if charging infrastructure is part of Ms. Ghazaryan purview and if so, asked her to ensure areas where people congregate have charging infrastructure. For instance, none of the Montrose parking lots have any chargers even though they are city owned and the infrastructure is right there.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Werner",
+                    "comment": "Inquired if a lot of people take advantage of the rebate program from public benefit charges.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Pinkerton",
+                    "comment": "Wondered if the City's existing Unity Day could be utilized for promoting public benefit funds.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Pinkerton",
+                    "comment": "Asked to get a report from marketing as to all the different advertising/outreach mechanisms used, including direct mail, social media, and door to door outreach. Asked how many of each type of outreach result in sign ups for re-bates or other programs.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Werner",
+                    "comment": "Asked what the participation rate is for the rebates for electric vehicle charging stations and multi-family housing, and for commercial areas. It seems pretty generous and I am wondering how it's had any traction or if people are taking advantage of it.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Pinkerton",
+                    "comment": "Asked for an update on Unity Day",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Werner",
+                    "comment": "I would like to suggest Artsock Plaza would be a good place to hold these types of events.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Pinkerton",
+                    "comment": "There's a good comment that we should try to take more sustainable foods and cooking with scraps.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Barchusf",
+                    "comment": "Inquired if Ms. Soloyan is going to be one of the conduits between the Sustainability Office and GWP",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Barchusf",
+                    "comment": "Inquired how from an equity perspective they are reaching out to low income and non-English speaking households that could benefit from all the amazing programs, such as by targeting census tracts.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Barchusf",
+                    "comment": "asked if we are going to advertise that opportunity, I don't know the details around the GWP program so could you do that if you don't mind?",
                     "timestamp": null
                 }
             ]
         },
         {
-            "item_number": 7,
-            "title": "Seven. Sustainability Office Updates, Earth Day 2025 and Climate Action Adaptation Plan",
-            "type": "Update",
-            "presenter": "Staff",
-            "summary": null,
+            "item_number": 5,
+            "title": "Plastic Waste Reduction Regulations, Proposed Ordinance and Incentive Programs",
+            "type": "Action",
+            "presenter": "David Jones",
+            "summary": "The Commission discussed language changes recommended to them. The first change was regarding disposable food ware. Legal staff reviewed the existing state legislation and determined that the city is statutorily prohibited from imposing different or more restrictive regulations on the use or distribution of plastic bags. A suggestion was made about decoupling food waste from restaurants but it will not be done. 3 motions will need to be reviewed.",
             "commissioner_comments": [
                 {
-                    "speaker": "Staff",
-                    "comment": "Provided update of activity since February. March had the biggest clothing drive with repair cafe, having collected 590 clothing and 16 boxes of arts and supplys and also 16 boxes of batteries and 56 items that included 4 bikes. April 26 was Earth day fair, goats and city first electric buss, food cycle and GEC. The CV action adaptation plan is availible.",
-                    "timestamp": null
-                },
-                {
                     "speaker": "Commissioner Werner",
-                    "comment": "Asked for name of bike contact for repaire.",
+                    "comment": "Strenuously objected to including the word recyclable in this, because that includes plastics and typically containers are supposed to be clean and dry before they go into the blue bin. She doesn't see people wiping out their plastic food containers before tossing them in the bins, but with compostable you can have food residue. She would not include the recyclable because the stuff is going to get put into the bins dirty and will not get processed.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Staff",
-                    "comment": "Explained that the volenteer came from Passadina.",
+                    "speaker": "Chairperson Bazemore",
+                    "comment": "Agreed with the concern that compostable is not always available.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Bazemore",
+                    "comment": "Wanted to be sensitive that it has been expressed that it is going to take time for that. So they do a phase in date so that they would get in line and have something to be for, as some other issues may still have, be part to this program. We could have a more realistic discussion on it.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Bazemore",
+                    "comment": "Wanted to ensure that the people knew that in our process right now.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Chairperson Bazemore",
+                    "comment": "Wondered what all's that going to take.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Barchusf",
+                    "comment": "When and where is the location?",
                     "timestamp": null
                 },
                 {
                     "speaker": "Commissioner Pinkerton",
-                    "comment": "Confirmed a press release was done, it had a good turn out.",
+                    "comment": "You want to see it to tell you that would put it as a way to the first year. In what ways would it do that?",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Staff",
-                    "comment": "Earth Day Fair was done. Had electric bus, goats, Athens Services, GC, walk bike Glendell, Berduigo park, and HS club.",
+                    "speaker": "Commissioner Pinkerton",
+                    "comment": "Wanted to put out in the way that I asked you. Does say on here?",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Student Commissioner",
-                    "comment": "They were doing activities.",
+                    "speaker": "Commissioner Pinkerton",
+                    "comment": "Are we accepting e-waste at that event",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Chairperson Bazemore",
-                    "comment": "Would like to acknowledge the work by Nora and how the permits were very planned.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Upcoming events: May 4, Berduigo trail, open street events, June is Clothing swaps.",
+                    "speaker": "Commissioner Barchusf",
+                    "comment": "How's the battery is going on? What's happening with the state?",
                     "timestamp": null
                 },
                 {
                     "speaker": "Chairperson Bazemore",
-                    "comment": "What about unveils for bus services for first bus services.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Solar program was done. That could not have everyone coming to the roof and it was life streamed. The buss had tight timeline.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Bazemore",
-                    "comment": "When the buss would start being used.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "States that she is not sure.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "It is a five time tire limit.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "That they can take tires and rims. It can be on Website.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Bazemore",
-                    "comment": "Where to find the climate Action Plan.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "That community, and subtainalility pages.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "The negative for 30 days.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Bazemore",
-                    "comment": "Links need to be in place.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "It could be a difficult time.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Bazemore",
-                    "comment": "If that if should push dates back if needed to. And that they like to have all public having access to that site.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Apologies. And they will make sure the link is fixed and extended. The coments received will be reviewed.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Chairperson Bazemore",
-                    "comment": "Hopes to find a middle ground.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Staff",
-                    "comment": "Will make sure the document is correct.",
+                    "comment": "I'm going to stop at that point.",
                     "timestamp": null
                 }
             ]
@@ -486,11 +234,11 @@
     ],
     "oral_communications": [
         {
-            "speaker": "Alan Dish",
-            "comment": "Addressed the Commission, expressing his sentiments regarding Earth Day, which was also his birthday. He mentioned the cutting down of trees in North Central and asked the new mayor to impose stronger measures, possibly declaring a state of emergency, to ban or pause tree cutting. The speaker shared that the mayor responded he could not do it due to the charter. Requested review for the charter committie. Proposed city council and comission to take action. To take action on Ecology. And to stop people destroying them. Stated if someones has issues it would affect his well.",
+            "speaker": "Shane Lee",
+            "comment": "He likes housing but not parking and supports eliminating parking mandates, as well as car-free streets and night markets. He stated that dense mixed-use walkable communities are vital and supports projects reducing car dependency, noting a third of carbon emissions in America are from cars. He suggested limiting parking mandates to encourage people to live closer to jobs and amenities. He is available Tuesdays and shared contact information.",
             "timestamp": null
         }
     ],
-    "adjournment_moved_by": "Unknown",
-    "adjournment_seconded_by": "Unknown"
+    "adjournment_moved_by": "Commissioner Werner",
+    "adjournment_seconded_by": "Commissioner Barchusf"
 }

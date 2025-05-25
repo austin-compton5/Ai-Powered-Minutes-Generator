@@ -20,13 +20,12 @@ def download_audio(youtube_url: str, output_dir: Path = DOWNLOADS_DIR) -> Path:
     # Build and run yt-dlp command
     result = subprocess.run([
         "yt-dlp",
-        "-f", "bestaudio[ext=m4a]/bestaudio",
         "-x", 
         "--audio-format", "mp3",
         "-o", 
         output_template,
         youtube_url
-    ], capture_output=True, text=True, check=True)
+    ], check=True)
     
     if result.returncode != 0:
         raise RuntimeError(f"yt-dlp failed: {result.stderr}")
