@@ -17,5 +17,5 @@ def parse_json(result):
 
     with open("./raw_output_debug.json", "w", encoding="utf-8") as f:
         json.dump(meeting_dict, f, indent=4, default=json_serial)
-
+    
     return meeting_dict

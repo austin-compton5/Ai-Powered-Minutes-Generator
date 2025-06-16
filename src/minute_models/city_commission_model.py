@@ -12,7 +12,7 @@ class RollCall(BaseModel):
     absent: List[str]
 
 class ApprovalOfMinutes(BaseModel):
-    referenced_meeting_date: datetime
+    referenced_meeting_date: Optional[datetime]
     moved_by: str
     seconded_by: str
     ayes: List[str]

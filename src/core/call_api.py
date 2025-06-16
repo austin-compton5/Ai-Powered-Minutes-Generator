@@ -1,5 +1,6 @@
 
 from google.genai import types
+from core import parser, render
 
 def call_gemini(client, model, video_file, prompt, schema):
 
@@ -19,3 +20,18 @@ def call_gemini(client, model, video_file, prompt, schema):
         print(f"Error during api call: {e}")
         
     return result 
+
+def generate_minutes(templates_dir, client, template, model, prompt, data_model):
+
+    response = call_gemini(
+        client["client"], 
+        model, 
+        client["video_file"], 
+        prompt,
+        data_model)
+    print(response)
+    
+    parsed_json = parser.parse_json(response)
+    rendered_html = render.render_html(templates_dir, template, parsed_json)
+
+    return rendered_html

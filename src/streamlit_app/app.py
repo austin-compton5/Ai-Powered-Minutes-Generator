@@ -1,5 +1,6 @@
-from minutes import generate_minutes_from_youtube, convert_html_to_pdf
+from pipeline import pipeline
 import streamlit as stm
+from streamlit_app import helper
 import streamlit.components.v1 as components 
 
 def main():
@@ -9,11 +10,11 @@ def main():
 
     if stm.button("Generate Minutes"):
         with stm.spinner("Processing: This can take up to 5 minutes"):
-            minutes = generate_minutes_from_youtube(youtube_url)
+            minutes = pipeline.generate_minutes_from_youtube(youtube_url)
             stm.success("Done")
             components.html(minutes, height=1600, scrolling=True)
 
-            pdf_bytes = convert_html_to_pdf(minutes)
+            pdf_bytes = helper.convert_html_to_pdf(minutes)
 
             stm.download_button(
                 label="📄 Download as PDF",
