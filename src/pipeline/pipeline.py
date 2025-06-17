@@ -18,7 +18,7 @@ load_dotenv(dotenv_path)
 if "GOOGLE_API_KEY" not in os.environ:
     os.environ["GOOGLE_API_KEY"] = stm.secrets.get("GOOGLE_API_KEY", "")
 
-def generate_minutes_from_youtube(youtube_url):
+def generate_minutes_from_youtube(youtube_url: str):
     audio_path = download.download_audio(youtube_url)
     genai_client = client.setup_client(audio_path)
     minutes = call_api.generate_minutes(templates_dir, genai_client, template=template, model=model, prompt=prompt, data_model=data_model)
