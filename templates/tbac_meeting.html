@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Meeting Minutes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            background-color: white;
+            color: black;
+        }
+        h1, h2 {
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        .section {
+            margin-top: 30px;
+        }
+        .comment {
+            margin-left: 20px;
+        }
+        .timestamp {
+            font-style: italic;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Meeting Minutes</h1>
+<h2>{{ meeting.meeting_date.strftime('%B %d, %Y') }}</h2>
+
+<p><strong>Start Time:</strong> {{ meeting.start_time }}<br>
+{% if meeting.end_time %}
+<strong>End Time:</strong> {{ meeting.end_time }}</p>
+{% endif %}
+
+<p><strong>Location:</strong> {{ meeting.location }}<br>
+<strong>Chair:</strong> {{ meeting.chair }}<br>
+<strong>Quorum Confirmed:</strong> {{ "Yes" if meeting.quorum_confirmed else "No" }}</p>
+
+<div class="section">
+    <h2>Agenda</h2>
+    {% for item in meeting.agenda %}
+        <div class="section">
+            <h3>{{ item.number }}. {{ item.title }}</h3>
+            {% if item.notes %}
+                <p><strong>Notes:</strong> {{ item.notes }}</p>
+            {% endif %}
+
+            {% if item.was_discussed %}
+                <p><strong>Discussion:</strong></p>
+                {% if item.discussion %}
+                    <ul>
+                        {% for comment in item.discussion %}
+                            <li class="comment">
+                                {% if comment.speaker %}
+                                    <strong>{{ comment.speaker }}:</strong>
+                                {% endif %}
+                                {{ comment.comment }}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <p>No recorded discussion.</p>
+                {% endif %}
+            {% else %}
+                <p>This item was not discussed.</p>
+            {% endif %}
+        </div>
+    {% endfor %}
+</div>
+
+{% if meeting.event_announcements_internal %}
+<div class="section">
+    <h2>Internal Announcements</h2>
+    <ul>
+        {% for event in meeting.event_announcements_internal %}
+            <li>
+                <strong>{{ event.title }}</strong>
+                {% if event.date %}
+                    ({{ event.date.strftime('%B %d, %Y') }})
+                {% endif %}
+                {% if event.description %}
+                    – {{ event.description }}
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+{% if meeting.event_announcements_external %}
+<div class="section">
+    <h2>External Announcements</h2>
+    <ul>
+        {% for event in meeting.event_announcements_external %}
+            <li>
+                <strong>{{ event.title }}</strong>
+                {% if event.date %}
+                    ({{ event.date.strftime('%B %d, %Y') }})
+                {% endif %}
+                {% if event.description %}
+                    – {{ event.description }}
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+{% if meeting.public_comments %}
+<div class="section">
+    <h2>Public Comments</h2>
+    <ul>
+        {% for comment in meeting.public_comments %}
+            <li class="comment">
+                {% if comment.speaker %}
+                    <strong>{{ comment.speaker }}:</strong>
+                {% endif %}
+                {{ comment.comment }}
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+{% if meeting.next_meeting_date %}
+<div class="section">
+    <h2>Next Meeting</h2>
+    <p>The next meeting is scheduled for {{ meeting.next_meeting_date.strftime('%B %d, %Y') }}.</p>
+</div>
+{% endif %}
+
+{% if meeting.adjournment_time %}
+<div class="section">
+    <h2>Adjournment</h2>
+    <p>The meeting adjourned at {{ meeting.adjournment_time }}.</p>
+</div>
+{% endif %}
+
+</body>
+</html>
