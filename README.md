@@ -1,36 +1,28 @@
 
-# AI-Powered Meeting Minutes Generator for Local Government Internship 
+##📝 Meeting Minutes Generator
+
+This project automates the creation of structured meeting minutes for government commission meetings. It leverages the Google Gemini API to extract relevant content, uses Pydantic to validate and structure the data, and Jinja2 templates to convert the output into an HTML summary. The result is a fully automated, end-to-end pipeline that reliably generates a solid first draft of minutes for city commission meetings.  
 
 
-This tool automates the creation of structured meeting minutes for government commission meetings. It leverages the Google Gemini API to extract relevant content, uses Pydantic to validate and structure the data, and Jinja2 templates to convert the output into an HTML summary. The result is a fully automated, end-to-end pipeline that significantly reduces the manual effort required by staff to document commission meetings. 
+##Demo
 
-## Why I built this
-
-During my internship, recording minutes for commission meetings was a slow, time-intensive process.
-This tool automates the meeting-minutes workflow, saving me hours of repetitive work while ensuring consistent, structured outputs for each meeting. 
 
 
 ## Tech Stack
 
-Python – Core logic and data handling
-
-Bash – Automation and file management
-
-Google Gemini API – Extract key meeting content
-
-Pydantic – Structured API Data 
-
-Jinja2 – Formats the minutes using a template
-
-HTML – Final output format
-
+FastAPI – backend routes and request handling
+Gemini API – meeting summarization
+yt-dlp – audio extraction from YouTube
+Pydantic – data validation
+Jinja2 – templated HTML output
+Streamlit (optional) – demo interface
 AI Tools – Used to generate initial HTML templates and troubleshoot formatting issues
 
 ## Setup 
 
 1. Clone the repository:
 ```
-  git clone https://github.com/yourusername/your-repo-name.git
+  git clone https://github.com/austin-compton5/Ai-Powered-Minutes-Generator
   cd your-repo-name
 ```
 2: Set up your python environment:
@@ -44,12 +36,17 @@ AI Tools – Used to generate initial HTML templates and troubleshoot formatting
   GOOGLE_API_KEY=your_google_api_key
 ```
 
-5. Run the automation script
+5. Run the Streamlit demo
 ```
- ./create_minutes.sh
+ streamlit run src/streamlit_app/app.py 
 ```
 
-7. When prompted, enter the youtube link to the commission meeting. The completed meeting_minutes.html file will be generated at the root of your project directory.
+6. Or run the API
+```
+cd src/api
+uvicorn main:app --reload 
+```
+
 
 ## Key Contributions 
 
