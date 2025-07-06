@@ -1,15 +1,15 @@
 
-## 📝 Meeting Minutes Generator
+# 📝 Meeting Minutes Generator
 
 This project automates the creation of structured meeting minutes for government commission meetings. It leverages the Google Gemini API to extract relevant content, uses Pydantic to validate and structure the data, and Jinja2 templates to convert the output into an HTML summary. The result is a fully automated, end-to-end pipeline that reliably generates a solid first draft of minutes for city commission meetings.  
 
 ---
 
-## Demo
+## 🎥 Demo
 
 ![Demo](media/github_demo.gif)
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **FastAPI** – Backend routes and request handling  
 - **Gemini API** – Meeting summarization  
@@ -21,12 +21,12 @@ This project automates the creation of structured meeting minutes for government
 
 ---
 
-## Setup 
+## ⚙️ Setup 
 
 1. Clone the repository:
 ```
   git clone https://github.com/austin-compton5/Ai-Powered-Minutes-Generator
-  cd your-repo-name
+  cd Ai-Powered-Minutes-Generator
 ```
 2: Set up your python environment:
 ```
@@ -50,7 +50,7 @@ cd src/api
 uvicorn main:app --reload 
 ```
 ---
-### API Example
+### 🔌 API Example
 
 **Endpoint:**  
 `POST /generate`
@@ -69,7 +69,7 @@ uvicorn main:app --reload
 }
 ```
 --- 
-## Project Lineage & Acknowledgements
+## 🗂 Project Lineage & Acknowledgements
 
 This project was adapted from an open-source financial data extraction app. While the original use case was unrelated (market data), its structure helped accelerate development.
 
