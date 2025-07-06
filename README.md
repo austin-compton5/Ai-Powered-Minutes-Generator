@@ -1,22 +1,25 @@
 
-##📝 Meeting Minutes Generator
+## 📝 Meeting Minutes Generator
 
 This project automates the creation of structured meeting minutes for government commission meetings. It leverages the Google Gemini API to extract relevant content, uses Pydantic to validate and structure the data, and Jinja2 templates to convert the output into an HTML summary. The result is a fully automated, end-to-end pipeline that reliably generates a solid first draft of minutes for city commission meetings.  
 
+---
 
-##Demo
+## Demo
 
-
+![Demo](media/github_demo.gif)
 
 ## Tech Stack
 
-FastAPI – backend routes and request handling
-Gemini API – meeting summarization
-yt-dlp – audio extraction from YouTube
-Pydantic – data validation
-Jinja2 – templated HTML output
-Streamlit (optional) – demo interface
-AI Tools – Used to generate initial HTML templates and troubleshoot formatting issues
+- **FastAPI** – Backend routes and request handling  
+- **Gemini API** – Meeting summarization  
+- **yt-dlp** – Audio extraction from YouTube  
+- **Pydantic** – Data validation (Meeting Minutes Structure)
+- **Jinja2** – Templated HTML output  
+- **Streamlit** (optional) – Demo interface  
+- **AI Tools** – Used to generate initial HTML templates and troubleshoot issues
+
+---
 
 ## Setup 
 
@@ -46,40 +49,38 @@ AI Tools – Used to generate initial HTML templates and troubleshoot formatting
 cd src/api
 uvicorn main:app --reload 
 ```
+---
+### API Example
 
+**Endpoint:**  
+`POST /generate`
 
-## Key Contributions 
-
-Adapted an existing finance bot’s architecture to handle commission meeting data workflows
-
-Designed custom Pydantic models to structure and guide AI-generated outputs
-
-Created dynamic Jinja2 templates for readable, well-structured meeting summaries
-
-Automated end-to-end process with Bash and Python
-
-Ensured output matches the format and quality standards of meeting minutes for my government internship.
-
+**Request Body:**
+```json
+{
+  "youtube_link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "selected_template": "city_commission_model"
+}
+```
+**Response:**
+```json
+{
+  "html": "<html><head>...</head><body><h1>Meeting Minutes</h1>...</body></html>"
+}
+```
+--- 
 ## Project Lineage & Acknowledgements
 
+This project was adapted from an open-source financial data extraction app. While the original use case was unrelated (market data), its structure helped accelerate development.
 
+Changes and additions made:
 
-This project was initially adapted from an open-source finance application that featured a similar data extraction architecture to fetch market data. While the original use case was entirely different, its structure helped accelerate development.
+* Swapped in a new data source (YouTube commission meeting audio)
+* Designed custom Pydantic models for structured meeting content
+* Implemented a Jinja2-based HTML rendering system
+* Integrated Google Gemini for NLP-based content extraction
 
-I changed the python script to:
-- Change the data source and format (meeting minutes vs. financial data)
-- Design custom Pydantic models for new data types
-- Implement a new Jinja2-based templating system for HTML output
-- Integrating Google Gemini for NLP-based content extraction
+Original repo: hackingthemarkets/gemini-multimodal-structured-extraction
 
-Throughout development, I also used AI tools (Gemini and ChatGPT) to:
-- Generate initial Bash scripts for automating file handling
-- Troubleshoot Python and templating bugs
-- Prototype the HTML structure using Jinja2
-- Get structural guidance for designing Pydantic schemas
+Huge thanks to the original developer — I learned a lot building on top of their work.
 
-Original repo: https://github.com/hackingthemarkets/gemini-multimodal-structured-extraction
-
-Thank you to the original developer! I learned a lot building ontop of their project.
-
-```
