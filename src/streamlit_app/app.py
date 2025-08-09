@@ -1,10 +1,11 @@
+import sys, os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 from pipeline import pipeline
 import streamlit as stm
 from streamlit_app import helper
 import streamlit.components.v1 as components 
-import sys, os
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 sample_url = "https://www.youtube.com/watch?v=eROz3MXxqLU"
 
