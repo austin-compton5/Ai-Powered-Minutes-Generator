@@ -1,14 +1,14 @@
 {
     "meeting_title": "Civil Service Commission Meeting",
-    "meeting_date": "2025-05-14T16:00:00+00:00",
-    "start_time": "16:00:00",
-    "end_time": "16:34:00",
+    "meeting_date": "2025-06-11T00:00:00-07:00",
+    "start_time": "Afternoon",
+    "end_time": "N/A",
     "roll_call": {
         "present": [
-            "Commissioner McGravian",
-            "Commissioner Gazarian",
+            "Commissioner Magrevian",
+            "Commissioner Gihanian",
             "Commissioner Reen",
-            "Commissioner Narravian",
+            "Commissioner Naravian",
             "Chair Hatamian"
         ],
         "absent": []
@@ -17,122 +17,143 @@
     "land_acknowledgement": false,
     "agenda_posted_date": null,
     "approval_of_minutes": {
-        "referenced_meeting_date": "2025-04-09T16:00:00+00:00",
-        "moved_by": "Chair Hatamian",
-        "seconded_by": "Commissioner McGravian",
+        "referenced_meeting_date": "2025-05-14T00:00:00-07:00",
+        "moved_by": "Commissioner Magrevian",
+        "seconded_by": "Commissioner Reen",
         "ayes": [
-            "Commissioner McGravian",
-            "Commissioner Gazarian",
+            "Commissioner Magrevian",
+            "Commissioner Gihanian",
             "Commissioner Reen",
-            "Commissioner Narravian"
+            "Commissioner Naravian",
+            "Chair Hatamian"
         ]
     },
     "general_commissioner_comments": [],
     "agenda_items": [
         {
             "item_number": 1,
-            "title": "Minutes Consideration for the minutes of April 9th, 2025 meeting.",
-            "type": "Action",
+            "title": "Oral Communications",
+            "type": "Oral Communication",
             "presenter": null,
-            "summary": "The minutes from the April 9th, 2025 meeting were presented for consideration and approval.",
+            "summary": "The commission did not receive any cards, and there were no phone calls on hold.",
+            "commissioner_comments": []
+        },
+        {
+            "item_number": 2,
+            "title": "Recruitment and Examination Report",
+            "type": "Report",
+            "presenter": "Ms. Adams",
+            "summary": "Ms. Adams presented the regular recruitment and examination status report, representing current recruitments in process. The team is working on 36 open recruitments. The report identifies the division of work and pinpoints the various stages of the examination and selection process. Ms. Adams offered to answer any questions.",
+            "commissioner_comments": []
+        },
+        {
+            "item_number": 3,
+            "title": "Eligible List Established",
+            "type": "Report",
+            "presenter": "Ms. Adams",
+            "summary": "Ms. Adams presented a report including all of the eligible lists that were recently established since the last meeting in May. The report includes the total number of applications and the number of individuals that advanced through the various stages of the examination processes. Since the last meeting, 12 lists were established. Seven were open to the public, four were given on a promotional basis, and one was given on an open and promotional basis. This item is for note and file; Ms. Adams offered to answer any questions.",
             "commissioner_comments": [
                 {
-                    "speaker": "Chair Hatamian",
-                    "comment": "Chair Hatamian abstained from voting, citing his absence from the April 9th meeting.",
+                    "speaker": "Commissioner Magrevian",
+                    "comment": "Commissioner Magrevian expressed appreciation for the city's efforts in finding six qualified candidates from 261 applications for an administrative assistant position. She noted the challenges of no-shows and candidates not passing, highlighting the effort involved in hiring. She commended the city for working hard on finding candidates, considering the high number of applicants. The Commissioner concluded that good job everyone was in order.",
                     "timestamp": null
                 }
             ]
         },
         {
-            "item_number": 2,
-            "title": "Oral Communications",
-            "type": "Oral Communication",
-            "presenter": null,
-            "summary": "The chair noted no cards or calls for oral communication.",
-            "commissioner_comments": []
-        },
-        {
-            "item_number": 3,
-            "title": "Recruitment and Examination Report",
-            "type": "Report",
-            "presenter": "Ms. Adams",
-            "summary": "Ms. Adams presented the regular recruitment and examination status report, detailing current recruitments in process and the team's ongoing work. The team has 46 open recruitments. The report identified the division of work and pinpointed the various stages of the examination and selection process. The report was for notation and file unless there were questions.",
-            "commissioner_comments": []
-        },
-        {
             "item_number": 4,
-            "title": "Eligible List Established",
-            "type": "Report",
-            "presenter": "Ms. Adams",
-            "summary": "Ms. Adams presented the regular report including all of the eligible lists that were recently established since the last meeting in April. The report included the total number of applications and the number of individuals that advanced through the various stages of the examination process.  There was a total of 13 lists that were established. Six were open to the public, five were given on a promotional basis, and two were given on an open and promotional basis. This is also a note and file item. Ms. Adams also stands ready to answer questions.",
+            "title": "Formal Introduction of Commissioner Gihanian",
+            "type": "Other",
+            "presenter": "Chair Hatamian",
+            "summary": "Chair Hatamian formally introduced Commissioner Gihanian to the Glendale Civil Service Commission. He highlighted Commissioner Gihanian's extensive experience in both the government and private sectors, briefly reviewing his resume. The Chair welcomed him to the commission and invited him to introduce himself to the audience.",
             "commissioner_comments": [
                 {
-                    "speaker": "Chair Hatamian",
-                    "comment": "Chair Hatamian inquired about the potential impact of a hiring freeze on these lists, if one were to occur.",
+                    "speaker": "Commissioner Gihanian",
+                    "comment": "Commissioner Gihanian introduced himself as a 35-plus year resident of Glendale, where he and his wife are raising their three young boys. He is the Director of Global Government Affairs for Lam Research Corporation, a semiconductor equipment maker. He also serves as the Vice Chair of the LA County Small Business Commission. Previously, he worked on Capitol Hill for ten years, handling business policy, and at the US Chamber of Commerce doing the same. He expressed excitement about working with the commission.",
                     "timestamp": null
                 },
                 {
-                    "speaker": "Ms. Adams",
-                    "comment": "Ms. Adams clarified that selection processes already approved would proceed to completion. For others, the lists remain valid for two years, allowing for use if the freeze lifts. Otherwise, the process restarts upon the freeze's expiration.",
+                    "speaker": "Chair Hatamian",
+                    "comment": "Chair Hatamian welcomed Commissioner Gihanian, noting the collaborative nature of the commission. He emphasized that the commission benefits from diverse viewpoints, even from those without a legal background. He also thanked Lucy Varpetian, counsel, for her ongoing assistance and expertise.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Naravian",
+                    "comment": "Commissioner Naravian welcomed Commissioner Gihanian.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Magrevian",
+                    "comment": "Commissioner Magrevian welcomed Commissioner Gihanian and expressed looking forward to working with him.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Reen",
+                    "comment": "Commissioner Reen welcomed Commissioner Gihanian.",
                     "timestamp": null
                 }
             ]
         },
         {
             "item_number": 5,
-            "title": "Informational Report on Performance Evaluations and Return Status for City of Glendale Employees",
-            "type": "Report",
+            "title": "Job Bulletin for Approval: Police Lieutenant",
+            "type": "Action",
             "presenter": "Ms. Adams",
-            "summary": "Ms. Adams presented the informational report on performance evaluations and return status for City of Glendale employees. The response rate is very good and there are no evaluations on the second notice list. Ms. Adams can answer any questions.",
+            "summary": "Ms. Adams presented a police lieutenant job bulletin for approval, as required by Civil Service Rule 4, Section 3C for sworn promotional recruitments within the Police Department. The bulletin aligns with the existing Police Lieutenant class specification, with a few modifications requested by police management. A key addition is designating the Supervisory Leadership Institute (SLI) as a highly desirable qualification, although completion of SLI is not a requirement. Refinements were made to articulate the skills, knowledge, and abilities expected of this management-level position. The selection process includes an application evaluation, a professional panel interview with a tactical component, and a community internal panel interview. The job bulletin will be posted from June 30th through July 14th, 2025, with examinations tentatively scheduled for the week of August 18th, 2025. The eligible list will be valid for one year, consistent with Civil Service Rule 4, Section 17. The Glendale Management Association has reviewed the job bulletin and has not expressed any concerns. Ms. Adams respectfully recommended that the Commission approve the proposed job bulletin for Police Lieutenant as submitted. Representatives from HR and police management were present to answer questions.",
             "commissioner_comments": [
                 {
+                    "speaker": "Commissioner Magrevian",
+                    "comment": "Commissioner Magrevian, drawing on her experience representing law enforcement, expressed approval of the additions to the job duties and the position. She found the bulletin aligned with what a Lieutenant does and is required to do.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Reen",
+                    "comment": "Commissioner Reen inquired about the classification, asking if updates to the classification should be done at the same time, even though it's not on the agenda. He also asked how the members for the selection panel and the interview process are chosen.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Ms. Adams",
+                    "comment": "Ms. Adams clarified that while there is no need to change the class specification tonight, the city is undergoing a top-to-bottom review of all class specifications. She explained that the commission would likely see hundreds of updated class specifications over the next 12 months. In response to panel selections and the interview process, Ms. Adams explained that the HR Department works closely with the Chief of Police, and takes into consideration recommendations from the City Manager for members from the public. HR then makes sure that the invitees are available.",
+                    "timestamp": null
+                },
+                {
                     "speaker": "Chair Hatamian",
-                    "comment": "Chair Hatamian commended the staff for achieving zero pending performance evaluations.",
+                    "comment": "Chair Hatamian requested clarification of the procedure for commission changes to class specifications and impact to the union agreement.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Ms. Adams",
+                    "comment": "Ms. Adams stated that they will only take information back to the unions if the recommendation edits are substantial. If the edits are grammatical, minor or clearly state essential functions the information will not be taken back to the unions. However if the changes were to impact requirements to compete, or to the design of the examination, they would then need to meet and confirm with the union again.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Commissioner Naravian",
+                    "comment": "Commissioner Naravian inquired whether all eligible candidates have access to the Supervisory Leadership Institute program that is highly desirable for this position.",
+                    "timestamp": null
+                },
+                {
+                    "speaker": "Captain Robert Williams",
+                    "comment": "Captain Robert Williams from the Glendale Police Department stated that every sergeant after the one-year probation period is eligible to take the course, but is not mandatory.",
                     "timestamp": null
                 }
             ]
         },
         {
             "item_number": 6,
-            "title": "Civil Service Commission Staff Comments",
-            "type": "Other",
-            "presenter": null,
-            "summary": null,
+            "title": "Reports and Information: Employee Job Performance Evaluations Past Due Aging Report",
+            "type": "Report",
+            "presenter": "Ms. Adams",
+            "summary": "Ms. Adams presented an informational report on performance evaluation and the return status for the City of Glendale's employees. She indicated that the response rate is good and there are no evaluations on the second notice list. Ms. Adams offered to answer questions.",
             "commissioner_comments": [
                 {
                     "speaker": "Chair Hatamian",
-                    "comment": "Chair Hatamian expressed sincere gratitude to Commissioner Gazarian for his service and commitment to the Civil Service Commission, highlighting his inspirational role, presence, and dedication to the City of Glendale.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Ms. Adams",
-                    "comment": "On behalf of the Human Resources Department, Ms. Adams expressed sincere appreciation to Commissioner Gazarian for his 14 years of dedicated service to the Civil Service Commission, praising his thoughtfulness, deliberative approach, steady presence, fairness, and the way he encouraged insightful questioning, benefiting the HR team and its work. She also highlighted his guidance, impact on the HR department and assistance navigating change and challenges over the past two and a half years. Ms. Adams said it had been a pleasure to work alongside him. Ms. Adams then called forward City Manager Roubik Golanian.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Roubik Golanian",
-                    "comment": "Roubik Golanian conveyed his hope that this moment would not arrive, emphasizing the importance of Commissioner Gazarian's contributions. He echoed the sentiments of Chair Hatamian and Chief Human Resources Officer Adams, also speaking on behalf of the City Council, the executive team, Public Safety Department heads, and the entire City of Glendale organization.  Mr. Golanian expressed sincere appreciation for Commissioner Gazarian's 14 years of dedication to the commission, the community, and the organization as a whole.  He acknowledged challenges the Commission faced, and thanked Commissioner Gazarian for being a steady, anchoring presence that helped guide conversations and navigate processes for new Commissioners. Golanian stated that Commissioner Gazarian was a strong proponent for hiring the best and most qualified candidates, and that his public expressions of respect for City employees have not gone unnoticed. Concluding, Mr. Golanian said that Commissioner Gazarian will be missed, and wished him the best in his future endeavors.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Gazarian",
-                    "comment": "Commissioner Gazarian expressed being overwhelmed for multiple reasons, emphasizing his love for the City of Glendale, where he has resided for 32 years. As a staunch advocate for all things Glendale, including its Police Department, Fire Department, and all City Departments, he affirmed his belief in Glendale's transformation into a 'jewel city.' Commissioner Gazarian also stated that handling of recent fires in his area was 'something to be in awe of'.  Additionally, Gazarian acknowledged the mentorship of the late Art Devine, who served as an anchor, and recalled Sam Manoukian. Lastly, Gazarian noted he was replacing Ara Hatamian on the commission, and that Commissioner Hatamian had resigned in order to care for a child. Commissioner Gazarian thanked City Staff, in particular Russ. Commissioner Gazarian stated Paula Adams predecessor, Matt Doyle, was very close until Paula came along. He did have to adjust, but ultimately cherishes her relationship on the dias. Commissioner Gazarian told the fellow commissioners he hopes that they will continue to thrive and serve the City and City employees. Gazarian thanked attorneys Nate Kowalski and Lucy Varbedian for guiding them at closed hearings, as well as other matters. Commissioner Gazarian also thank Paula Adams for renomination. Finally, Commisioner Gazarian noted that in his zeal to serve the city, he pushed the envelope. However, he left the commission enriched by the experience. Commissioner Gazarian stated he will live in Glendale, and will serve at pleasure.",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner McGravian",
-                    "comment": "Commissioner McGravian acknowledged the passion and care Commissioner Gazarian demonstrated in his role. His love for the City and its people was evident, and his institutional knowledge will be greatly missed. The Commissioner appreciated his duties as Chair and being able to agree and disagree with him. His service will be missed. Commissioner McGravian also greatly appreciates the beautiful words from the public. ",
-                    "timestamp": null
-                },
-                {
-                    "speaker": "Commissioner Reen",
-                    "comment": "Commissioner Reen observed that while his time with Commissioner Gazarian was relatively brief, he quickly recognized Commissioner Gazarian's deep knowledge and practicality. He expressed that Commissioner Gazarian had served as an inspiration, setting an example of wisdom and commitment that he hopes to emulate.",
+                    "comment": "Chair Hatamian gave kudos to the city staff, noting the difficulty of achieving a zero past due status, especially in large organizations like the Sheriff's Department and Department of Mental Health. He commended the city's achievement as amazing.",
                     "timestamp": null
                 }
             ]
         }
     ],
     "oral_communications": [],
-    "adjournment_moved_by": "Commissioner Gazarian",
-    "adjournment_seconded_by": "Chair Hatamian"
+    "adjournment_moved_by": "Chair Hatamian",
+    "adjournment_seconded_by": "Commissioner Magrevian"
 }
